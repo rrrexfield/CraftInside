@@ -1,4 +1,4 @@
-
+@import "https://haogeshuohuanihaohaoting.github.io/static/mdCreateMenu.js"
 # **CraftInside服务器整合包**
 
 
@@ -7,9 +7,11 @@
 
 **探索 *机械动力、农夫乐事、装饰、家具* 等模组的秘密，突破Minecraft原版限制。无论是打造更复杂、更高效的机器，还是体验烹饪的乐趣，抑或是建造更漂亮、更真实的建筑，我们的服务器始终为你敞开，我们的使用文档将为你提供详尽的指导，助你成为一名真正的Minecraft大师！**
 
-[<div align=center>![79c9e599008370448d892f660c1a2cc2.jpeg](https://s1.imagehub.cc/images/2024/03/03/79c9e599008370448d892f660c1a2cc2.jpeg)](https://www.imagehub.cc/image/1XGPfI)
+[<div align=center>![](https://pic.imgdb.cn/item/65e412c59f345e8d032d9f99.jpg)](pic1)
 
-*<div align=right>本服务器暂时处于公测阶段，故暂未开放公共进服通道*
+
+*<div align=right>注：本服务器正处于公测阶段，故暂未开放公共进服通道*
+
 
 <div align=left>
 
@@ -17,7 +19,7 @@
 
 ### 安装教程
 
-**从本服务器的Q群/[Gitee仓库](https://gitee.com/numerousx/craft-inside/tree/master)/Github仓库下载最新版本整合包，在你的启动器中选择“安装整合包”或“导入整合包”，选择你下载好的本整合包的.zip压缩包文件，等待其余文件下载完成即可完成安装。**
+**从本服务器的QQ群、[Gitee仓库](https://gitee.com/numerousx/craft-inside/tree/master)、Github仓库下载最新版本整合包，在你的启动器中选择“安装整合包”或“导入整合包”，选择你下载好的本整合包的.zip压缩包文件，点击确定即可完成安装。**
 
 **推荐启动器：**[HMCL](https://hmcl.huangyuhui.net/download/) , [PCL2](https://afdian.net/p/0164034c016c11ebafcb52540025c377) （点击即可下载）
 
@@ -26,8 +28,8 @@
 ### 注意
 
 1. 本服**仅支持Java版进入，不支持基岩版！**
-2. 服务器支持**正版登录、LittleSkin登录**
-3. **请事先确认您已安装了Java17或更高版本的Java！**
+2. 服务器支持**正版登录、LittleSkin登录!**
+3. 请事先确认您**已安装了Java17或更高版本的Java！**
 
 **服务器常用命令**
 
@@ -39,6 +41,16 @@
 6. `/tpdeny` 拒绝传送请求
 7. `/co i` 查看方块行为日志
 
+**客户端常用按键**
+1. `C` 放大（望远镜）- `C + 鼠标滚轮` 变焦（调整放大倍率）
+2. `V` 打开语音聊天界面 - `G` 打开语音聊天群组设置
+3. `Tap` 显示在线玩家信息及小地图生物头像
+4. `J` 打开投影设置界面
+5. `O` 打开视频设置界面
+6. `R` 重新加载光影
+
+*其他按键设置请在Mod列表中或控制选项中自行查看*
+    
 ## 获得支持
 
 - **游戏相关问题：** 您可以在服务器QQ群提问，也可以向support@mail.craftinside.uk发送反馈邮件。
@@ -48,9 +60,15 @@
 
 ## 帮助我们变得更好
 
--  如果你发现了有趣的模组，并想在CraftInside服务器上游玩，可以在QQ群中提出你的idea，我们一起让CraftInside的世界变得更加多彩。
+- 如果你发现了有趣的模组，并想在CraftInside服务器上游玩，可以在服务器QQ群中提出你的idea，我们一起让CraftInside的世界变得更加多彩。
 
-你的支持是我们前进的动力！由于本服务器完全由腐竹用爱发电驱动，通过捐款，你将直接支持服务器的运营和发展，帮助我们不断提升游戏体验，为玩家们带来更多惊喜和乐趣！每一份捐助都将被用于服务器的改进和维护，让我们共同为这片美好的Minecraft世界添砖加瓦！
+- 你的支持是我们前进的动力！本服务器完全由腐竹用爱发电驱动，通过捐款，你将直接支持服务器的运营和发展，帮助我们不断提升游戏体验，为玩家们带来更多惊喜和乐趣！每一份捐助都将被用于服务器的改进和维护，让我们共同为这片美好的Minecraft世界添砖加瓦！
+
+[<div align=center>![](https://pic.imgdb.cn/item/65e412c49f345e8d032d9ec2.jpg)](pic2)
+
+----
+
+<div align=left>
 
 ## 附录：模组列表
 
@@ -107,6 +125,6 @@
 - [Embeddium Extras]
 - [Embeddium Dynamic Lights]
 
-[![3c7edcf40d4aaddbcd13ace2f89cd474.jpeg](https://s1.imagehub.cc/images/2024/03/03/3c7edcf40d4aaddbcd13ace2f89cd474.jpeg)](https://www.imagehub.cc/image/1XG4PZ)
+[<div align=center>![](https://pic.imgdb.cn/item/65e412c59f345e8d032da0d1.jpg)](pic3)
 
 ----------

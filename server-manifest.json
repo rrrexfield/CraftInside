@@ -1,0 +1,1179 @@
+{
+  "name": "CraftInside Modpack(Oculus-Forge)v0.4a",
+  "author": "Numerous",
+  "version": "0.4a",
+  "description": "\u003c!DOCTYPE html\u003e\u003chtml\u003e\u003chead\u003e\n      \u003ctitle\u003eReadme\u003c/title\u003e\n      \u003cmeta charset\u003d\"utf-8\"\u003e\n      \u003cmeta name\u003d\"viewport\" content\u003d\"width\u003ddevice-width, initial-scale\u003d1.0\"\u003e\n      \n      \u003clink rel\u003d\"stylesheet\" href\u003d\"file:///c:\\Users\\union\\.vscode\\extensions\\shd101wyy.markdown-preview-enhanced-0.8.11\\crossnote\\dependencies\\katex\\katex.min.css\"\u003e\n      \n      \n      \n      \n      \n      \u003cstyle\u003e\n      code[class*\u003dlanguage-],pre[class*\u003dlanguage-]{color:#333;background:0 0;font-family:Consolas,\"Liberation Mono\",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*\u003dlanguage-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)\u003ecode[class*\u003dlanguage-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:\u0027Helvetica Neue\u0027,Helvetica,\u0027Segoe UI\u0027,Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body\u003e:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body\u003ep{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body\u003eol,html body\u003eul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li\u003ep{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote\u003e:first-child{margin-top:0}html body blockquote\u003e:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,\u0027Courier New\u0027,monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:\u0027\\00a0\u0027}html body pre\u003ecode{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers\u003ecode{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows\u003espan{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows\u003espan:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for\u003dpreview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for\u003dpreview]) .code-chunk .status{display:none}.markdown-preview:not([data-for\u003dpreview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for\u003dhtml-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for\u003dhtml-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for\u003dhtml-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for\u003dhtml-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for\u003dhtml-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}\n/* Please visit the URL below for more information: */\n/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */\n\n      \u003c/style\u003e\n      \u003c!-- The content below will be included at the end of the \u003chead\u003e element. --\u003e\u003cscript type\u003d\"text/javascript\"\u003e\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    // your code here\n  });\n\u003c/script\u003e\u003c/head\u003e\u003cbody for\u003d\"html-export\"\u003e\n    \n    \n      \u003cdiv class\u003d\"crossnote markdown-preview  \"\u003e\n      \n\u003cp\u003e\u003cscript type\u003d\"text/javascript\" src\u003d\"https://haogeshuohuanihaohaoting.github.io/static/mdCreateMenu.js\"\u003e\u003c/script\u003e\u003c/p\u003e\n\u003ch1 id\u003d\"craftinside服务器整合包\"\u003e\u003cstrong\u003eCraftInside服务器整合包\u003c/strong\u003e \u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e欢迎来到CraftInside的Minecraft世界！这里不仅是一个游戏服务器，更是一个创意的乐园。在这里，你将开启无限可能性的大门，解锁创造力的力量，加入我们的服务器，与志同道合的伙伴一起开启你的冒险之旅！\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e探索 \u003cem\u003e机械动力、农夫乐事、装饰、家具\u003c/em\u003e 等模组的秘密，突破Minecraft原版限制。无论是打造更复杂、更高效的机器，还是体验烹饪的乐趣，抑或是建造更漂亮、更真实的建筑，我们的服务器始终为你敞开，我们的使用文档将为你提供详尽的指导，助你成为一名真正的Minecraft大师！\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"pic1\"\u003e\u003c/a\u003e\u003c/p\u003e\u003cdiv align\u003d\"center\"\u003e\u003ca href\u003d\"pic1\"\u003e\u003cimg src\u003d\"https://pic.imgdb.cn/item/65e412c59f345e8d032d9f99.jpg\" alt\u003d\"\"\u003e\u003c/a\u003e\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003c/em\u003e\u003c/p\u003e\u003cdiv align\u003d\"right\"\u003e\u003cem\u003e注：本服务器正处于公测阶段，故暂未开放公共进服通道\u003c/em\u003e\u003cp\u003e\u003c/p\u003e\n\u003cdiv align\u003d\"left\"\u003e\n\u003ch2 id\u003d\"使用说明\"\u003e使用说明 \u003c/h2\u003e\n\u003ch3 id\u003d\"安装教程\"\u003e安装教程 \u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003e从本服务器的QQ群、\u003ca href\u003d\"https://gitee.com/numerousx/craft-inside/tree/master\"\u003eGitee仓库\u003c/a\u003e、Github仓库下载最新版本整合包，在你的启动器中选择“安装整合包”或“导入整合包”，选择你下载好的本整合包的.zip压缩包文件，点击确定即可完成安装。\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e推荐启动器：\u003c/strong\u003e\u003ca href\u003d\"https://hmcl.huangyuhui.net/download/\"\u003eHMCL\u003c/a\u003e , \u003ca href\u003d\"https://afdian.net/p/0164034c016c11ebafcb52540025c377\"\u003ePCL2\u003c/a\u003e （点击即可下载）\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e相关教程：\u003ca href\u003d\"https://www.bilibili.com/read/cv24334696/\"\u003eBiliBili - 我的世界本地整合包安装教程HMCL和PCL2\u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch3 id\u003d\"注意\"\u003e注意 \u003c/h3\u003e\n\u003col\u003e\n\u003cli\u003e本服\u003cstrong\u003e仅支持Java版进入，不支持基岩版！\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e服务器支持\u003cstrong\u003e正版登录、LittleSkin登录!\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e请事先确认您\u003cstrong\u003e已安装了Java17或更高版本的Java！\u003c/strong\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e服务器常用命令\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003ccode\u003e/home\u003c/code\u003e 回到玩家出生点\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/back\u003c/code\u003e 回到上一次传送点/死亡地点\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpa\u003c/code\u003e或\u003ccode\u003e/tpask\u003c/code\u003e 请求传送到某人身旁\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpacancel\u003c/code\u003e 取消传送请求\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpaccept\u003c/code\u003e 接受传送请求\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpdeny\u003c/code\u003e 拒绝传送请求\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/co i\u003c/code\u003e 查看方块行为日志\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e客户端常用按键\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003ccode\u003eC\u003c/code\u003e 放大（望远镜）- \u003ccode\u003eC + 鼠标滚轮\u003c/code\u003e 变焦（调整放大倍率）\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eV\u003c/code\u003e 打开语音聊天界面 - \u003ccode\u003eG\u003c/code\u003e 打开语音聊天群组设置\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eTap\u003c/code\u003e 显示在线玩家信息及小地图生物头像\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eJ\u003c/code\u003e 打开投影设置界面\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eO\u003c/code\u003e 打开视频设置界面\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eR\u003c/code\u003e 重新加载光影\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cem\u003e其他按键设置请在Mod列表中或控制选项中自行查看\u003c/em\u003e\u003c/p\u003e\n\u003ch2 id\u003d\"获得支持\"\u003e获得支持 \u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e游戏相关问题：\u003c/strong\u003e 您可以在服务器QQ群提问，也可以向support@mail.craftinside.uk发送反馈邮件。\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e客户端整合包BUG：\u003c/strong\u003e 您可以在本项目的\u003ca href\u003d\"https://gitee.com/numerousx/craft-inside/tree/master\"\u003eGitee页面\u003c/a\u003e或Github页面提交Issue，也可以向support@mail.craftinside.uk发送反馈邮件。\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e我们一直在这里支持你！无论是游戏中遇到的问题还是对于服务器的疑问，我们的支持团队将尽我们所能为你提供帮助，让你在Minecraft世界中畅享乐趣，尽情展现自己的创造力！\u003c/p\u003e\n\u003ch2 id\u003d\"帮助我们变得更好\"\u003e帮助我们变得更好 \u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e如果你发现了有趣的模组，并想在CraftInside服务器上游玩，可以在服务器QQ群中提出你的idea，我们一起让CraftInside的世界变得更加多彩。\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e你的支持是我们前进的动力！本服务器完全由腐竹用爱发电驱动，通过捐款，你将直接支持服务器的运营和发展，帮助我们不断提升游戏体验，为玩家们带来更多惊喜和乐趣！每一份捐助都将被用于服务器的改进和维护，让我们共同为这片美好的Minecraft世界添砖加瓦！\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003ca href\u003d\"pic2\"\u003e\u003c/a\u003e\u003c/p\u003e\u003cdiv align\u003d\"center\"\u003e\u003ca href\u003d\"pic2\"\u003e\u003cimg src\u003d\"https://pic.imgdb.cn/item/65e412c49f345e8d032d9ec2.jpg\" alt\u003d\"\"\u003e\u003c/a\u003e\u003cp\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cdiv align\u003d\"left\"\u003e\n\u003ch2 id\u003d\"附录模组列表\"\u003e附录：模组列表 \u003c/h2\u003e\n\u003ch3 id\u003d\"玩法类\"\u003e玩法类 \u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e[Creae] 机械动力\u003c/li\u003e\n\u003cli\u003e[Create: Steam \u0027n\u0027 Rails] 机械动力：汽鸣铁道\u003c/li\u003e\n\u003cli\u003e[Create: Big Cannons] 机械动力：火炮\u003c/li\u003e\n\u003cli\u003e[Farmer\u0027s Delight] 农夫乐事\u003c/li\u003e\n\u003cli\u003e[Corn Delight] 玉米乐事\u003c/li\u003e\n\u003cli\u003e[Explorer\u0027s Compass] 探险者罗盘\u003c/li\u003e\n\u003cli\u003e[Nature Compass] 自然罗盘\u003c/li\u003e\n\u003cli\u003e[AstikorCarts Redux] 人力拉车\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id\u003d\"装饰类\"\u003e装饰类 \u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e[Supplementaries] 锦致装饰\u003c/li\u003e\n\u003cli\u003e[MrCrayfish\u0027s Furniture Mod] MrCrayfish的家具\u003c/li\u003e\n\u003cli\u003e[Decorative Lattices] 装饰框格\u003c/li\u003e\n\u003cli\u003e[PlayTics Deco] 工地装饰\u003c/li\u003e\n\u003cli\u003e[Immersive Paintings] 沉浸画框\u003c/li\u003e\n\u003cli\u003e[Diagonal Walls] 对角线围墙\u003c/li\u003e\n\u003cli\u003e[Diagonal Fences] 对角线栅栏\u003c/li\u003e\n\u003cli\u003e[Diagonal Windows] 对角线玻璃板\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id\u003d\"辅助类\"\u003e辅助类 \u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e[AppleSkin] 苹果皮\u003c/li\u003e\n\u003cli\u003e[Forgematica] 全息蓝图（投影）\u003c/li\u003e\n\u003cli\u003e[Simple Voice Chat] 简单语音聊天\u003c/li\u003e\n\u003cli\u003e[Xaero\u0027s Mini Map] Xaero的小地图\u003c/li\u003e\n\u003cli\u003e[Xaero\u0027s World Map] Xaero的世界地图\u003c/li\u003e\n\u003cli\u003e[WI Zoom] WI变焦\u003c/li\u003e\n\u003cli\u003e[Just Enough Items] JEI物品管理\u003c/li\u003e\n\u003cli\u003e[Inventory HUD+] 物品栏HUD+\u003c/li\u003e\n\u003cli\u003e[Inventory Profiles Next] 一件背包整理Next\u003c/li\u003e\n\u003cli\u003e[Bocc HUD] 孤独HUD\u003c/li\u003e\n\u003cli\u003e[Auto Fish] 自动钓鱼\u003c/li\u003e\n\u003cli\u003e[Dynamic Crosshair] 动态准星\u003c/li\u003e\n\u003cli\u003e[Curtain] 地毯\u003c/li\u003e\n\u003cli\u003e[Chat Heads] 聊天头像\u003c/li\u003e\n\u003cli\u003e[Better Advancements] 更好的进度\u003c/l",
+  "fileApi": "https://gitee.com/numerousx/craft-inside/raw/master",
+  "files": [
+    {
+      "path": "config/advancementplaques-common.toml",
+      "hash": "aefa81fbaff88d0408f77346bc1444931ed2aaa7"
+    },
+    {
+      "path": "config/amendments-client.toml",
+      "hash": "d77da3fad56a8f707aab126cce97b62aecd0e3ae"
+    },
+    {
+      "path": "config/amendments-common.toml",
+      "hash": "433da99caa3efc8f047d2b12f51adbbfa3fa02e7"
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "01ddb88e420140c33e4cfc0c105edd6e40a5f2c7"
+    },
+    {
+      "path": "config/astikorcarts-common.toml",
+      "hash": "8a3dadb5226f24f19ea7f7b49c329c4eb097404a"
+    },
+    {
+      "path": "config/beautifiedchatclient-common.toml",
+      "hash": "1d82740bc31f70413b05f85bc144c67d5a33ae50"
+    },
+    {
+      "path": "config/betteradvancements-client.toml",
+      "hash": "f4fc56531242653c03a09b757646a1e2f1a57c52"
+    },
+    {
+      "path": "config/betterfpsdist-common.toml",
+      "hash": "d9012088d36f2ae1096dbaed48258f811304c035"
+    },
+    {
+      "path": "config/betterfpsdist.json",
+      "hash": "a8a3ac914621f57e3e1f123526fe029b30559988"
+    },
+    {
+      "path": "config/bettermodsbutton-client.toml",
+      "hash": "abf33360ef364d42120af2aa5bf48f62643cc9da"
+    },
+    {
+      "path": "config/bettertitlescreen-client.toml",
+      "hash": "7e5c85089f03ba79b75975b6822533db850b7233"
+    },
+    {
+      "path": "config/bocchud/cn-cd-dx-tmp16.natfrp.cloud_22697.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/cn-cd-dx-tmp16.natfrp.cloud_22697_dim_minecraft_overworld.json",
+      "hash": "50cbbb1a0190b374ed499cc44b969b828a216c42"
+    },
+    {
+      "path": "config/bocchud/cn-cd-dx-tmp16.natfrp.cloud_43147.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/cn-cd-dx-tmp16.natfrp.cloud_43147_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/cn-cd-dx-tmp20.natfrp.cloud_39893.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/cn-cd-dx-tmp20.natfrp.cloud_39893_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/ecs.craftinside.uk.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/ecs.craftinside.uk_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/game.craftinside.uk.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/game.craftinside.uk_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/play.craftinside.uk.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/play.craftinside.uk_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/play.craftinside.uk_dim_minecraft_the_nether.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/____.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/____1.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/____1_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/____2.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/bocchud/____2_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/bocchud/_____dim_minecraft_overworld.json",
+      "hash": "ffb40907bb13dcb67dc825b254f247b01f9d9955"
+    },
+    {
+      "path": "config/bocchud.json",
+      "hash": "b8c8144b0aeaa4da588e29179a8c5fe82b217ce5"
+    },
+    {
+      "path": "config/cfm-client.toml",
+      "hash": "3eb32f3a010bb235fd71edb17fc9943df5340f7a"
+    },
+    {
+      "path": "config/cfm-common.toml",
+      "hash": "cd0fd1108e7eb08a1b1f4fce9f7dde7042548783"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "26cef99cc13abad6d43bba9fe3df92279e05fca7"
+    },
+    {
+      "path": "config/collective-common.toml",
+      "hash": "100c794906b094e96a94eeb9d5a157dab4ba65e0"
+    },
+    {
+      "path": "config/configured-client.toml",
+      "hash": "2a9798ebb7ca1426bd8b645e219dc7f9eaf909e4"
+    },
+    {
+      "path": "config/corn_delight-common.toml",
+      "hash": "337b9fcd700b06b043eaa7b0e7d9f990a78b81ab"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "c6f642af1276ec0d504145ad4b7225c6145a7e9e"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "41cda6916fe6ee82d14411d094f884862ef2b3de"
+    },
+    {
+      "path": "config/createbigcannons-client.toml",
+      "hash": "8db73d7f639328db96b8d8ad25db2109568a6f56"
+    },
+    {
+      "path": "config/create_central_kitchen-common.toml",
+      "hash": "c0d8c0aaa8a8c99d8d3304d6e27669eb2c0e9a22"
+    },
+    {
+      "path": "config/cupboard.json",
+      "hash": "56b9a0cd5fa9dbce4042f830697bb29aa09d6bd9"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "ee5607552a851c19ef1d53c6e4bac5c307d10524"
+    },
+    {
+      "path": "config/customwindowtitle-client.toml",
+      "hash": "faf94948ef2daef00421d2e79faddd8c6a1250a3"
+    },
+    {
+      "path": "config/DistantHorizons.toml",
+      "hash": "5f54b01a1a4690b514b18a44ea1fdd4b53e4d5ee"
+    },
+    {
+      "path": "config/durabilityviewer.json",
+      "hash": "1708237d5867777d1b23fde932e307ca0c05ce71"
+    },
+    {
+      "path": "config/dynamiccrosshair.json5",
+      "hash": "3a9a4a71ecec25960eb2ad86b57dde7f8971b0b5"
+    },
+    {
+      "path": "config/dynamic_lights_reforged.toml",
+      "hash": "bc2960004e4aff892ac9ce072ffd6ae87192c465"
+    },
+    {
+      "path": "config/embeddium++.toml",
+      "hash": "4a4327845c1815f1f2d5d22bf71c1ca64fbcda9d"
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "hash": "a889d8b76ba91cb2bfcb3cb64e0fc0a6440f3c6d"
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "hash": "e82c0905aee7c9e5990a77319a4ce5212a39d02d"
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "hash": "099742447659aad48b8ef95ea454f1531b44dab5"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "91e0e8ee93752a03681e1a3fd51c54bc6bcf76cf"
+    },
+    {
+      "path": "config/explorerscompass-client.toml",
+      "hash": "ffd01f3a181ce8b09418d66545e68c8f28a20e9e"
+    },
+    {
+      "path": "config/explorerscompass-common.toml",
+      "hash": "4c58ac3f88741c0b48f2d12fa74910de78cde6b2"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "7109adf50788f4bf5797dd3809ad0dc923c8f023"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "a0fbeadaf9f7876059852ca40e903d9ad4d0ac48"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "34184bb39d032f9dee0f1546e4b154865fada980"
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "hash": "2f2ab61806dd8d920b5154ba8d8094f2c0f6710d"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "5c9f878432446e9f07cb66d12b238cd4554a5599"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "5dcc032ce1e3d9e4a9552880f8de2e2c71fcdb1e"
+    },
+    {
+      "path": "config/forge-common.toml",
+      "hash": "f76722c529494d7b78ab5ad607fff4463866673b"
+    },
+    {
+      "path": "config/forge-resource-caching.toml",
+      "hash": "8592ffa97de14a707c317badd351d7eed94d5153"
+    },
+    {
+      "path": "config/forgeautofish-client.toml",
+      "hash": "94c109123a00a76c6194ad0f60f6481cb4a85c4e"
+    },
+    {
+      "path": "config/forgematica/forgematica_cn-cd-dx-tmp16.natfrp.cloud_22697.json",
+      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
+    },
+    {
+      "path": "config/forgematica/forgematica_cn-cd-dx-tmp16.natfrp.cloud_22697_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_cn-cd-dx-tmp16.natfrp.cloud_43147.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_cn-cd-dx-tmp16.natfrp.cloud_43147_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_cn-cd-dx-tmp20.natfrp.cloud_39893.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_cn-cd-dx-tmp20.natfrp.cloud_39893_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_ecs.craftinside.uk.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_ecs.craftinside.uk_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_game.craftinside.uk.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_game.craftinside.uk_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_play.craftinside.uk.json",
+      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
+    },
+    {
+      "path": "config/forgematica/forgematica_play.craftinside.uk_dim_minecraft_overworld.json",
+      "hash": "6ce81dad7c32f838e8abffc1449c52e2dd7aaf32"
+    },
+    {
+      "path": "config/forgematica/forgematica_play.craftinside.uk_dim_minecraft_the_nether.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_____.json",
+      "hash": "90c3c206fb5da2bccdd6705ff069f244786f8951"
+    },
+    {
+      "path": "config/forgematica/forgematica_____1.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/forgematica/forgematica_____1_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica/forgematica_____2.json",
+      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
+    },
+    {
+      "path": "config/forgematica/forgematica_____2_dim_minecraft_overworld.json",
+      "hash": "acf939c2b9227e2fe3884f8341fb735daef262e0"
+    },
+    {
+      "path": "config/forgematica/forgematica______dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/forgematica.json",
+      "hash": "3b877bf9a6d5fdc94b17ebd2f4213d764828b5c3"
+    },
+    {
+      "path": "config/fpsreducer/fpsreducer-client.toml",
+      "hash": "67e144e94d0edd655a68d4ab1b4b566d4dce7e28"
+    },
+    {
+      "path": "config/gamemenumodoption-client.toml",
+      "hash": "4a110b5d8600bf119924402eeb38bea5d4c15e42"
+    },
+    {
+      "path": "config/ias.json",
+      "hash": "b7f8ab135196768aebe9be152541acaed726ac85"
+    },
+    {
+      "path": "config/immersive_paintings.json",
+      "hash": "3fda63d6a6fe8e4eafe9872c58fa8695283e3986"
+    },
+    {
+      "path": "config/ingameime.json",
+      "hash": "e5b59d29657bc4ab494295df35c00da4b6e817f4"
+    },
+    {
+      "path": "config/InventoryHUD/curios.json",
+      "hash": "55407b57f6cdad6f583b4ce2ff7ab0ea9d67f710"
+    },
+    {
+      "path": "config/inventoryhud-client.toml",
+      "hash": "324530d6eaef80b6e93eb22367afcfd6497839a6"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/upgraded-From-Pre-v1.2.5.json",
+      "hash": "1f6371ac9e33c4599e7f6ff03e6d166bbc8419d5"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "75102339210016aa240274dc7bca8e31bf79ee53"
+    },
+    {
+      "path": "config/inventoryprofilesnext/villager-trading-config.json",
+      "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294"
+    },
+    {
+      "path": "config/inventoryprofilesnext/新的世界/villager-trading-config.json",
+      "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294"
+    },
+    {
+      "path": "config/inventoryprofilesnext/新的世界1/villager-trading-config.json",
+      "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294"
+    },
+    {
+      "path": "config/itemphysiclite-client.json",
+      "hash": "c2dfaf94c9f9348b7387112116ca88962d984e1b"
+    },
+    {
+      "path": "config/itlt-client.toml",
+      "hash": "1202f6a5a323e8ab64966c9fea940601e4f29ff9"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "4687cf45914c45a4a67441d1f440d7d89d0f6281"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "9984b019823e8eaf19a40d0b7ee92590cb53b8e9"
+    },
+    {
+      "path": "config/jade/hide-entities.json.invalid",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "c7a634a5d709016fa97ef5104e31a393a13f9f46"
+    },
+    {
+      "path": "config/jade/jade_plugins.json",
+      "hash": "43470c80f823be5df78a2d10405f8ac159036fd6"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "320dafb21ef76c0416c600ed7019c159416db2ba"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "d8e9f957b52af7cbc9721e673e14f07a7956531e"
+    },
+    {
+      "path": "config/jade-addons.toml",
+      "hash": "9c2511387492f6feb4a892ce566f38bbbc17fea9"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "ad86cf62bc0e3194e13c29130bda1b3995bbca32"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "ee9a73e1f8e96e8959353e4648963538548af38d"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "e2538a52e05df45c71db256e5be81fac1850c6ec"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "d7f78b145773baf483733330fe24c75824a848ab"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "36862b2495e2bc410b50083f000ef320f19f3ec9"
+    },
+    {
+      "path": "config/jei/world/local/worldSettings.cfg",
+      "hash": "a83158a0cb417c54dae8e41b49349a914914fcf2"
+    },
+    {
+      "path": "config/jei/world/server/CIS____a8c259a2/bookmarks.ini",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei-client.toml",
+      "hash": "2288f7de263e34b1bb1412ae12748fb66591d100"
+    },
+    {
+      "path": "config/jeresources-common.toml",
+      "hash": "6aa78dcf4043839e101c0b116a05d6e936272585"
+    },
+    {
+      "path": "config/jeresources.toml",
+      "hash": "5488c358d2c0aa830e73bc9795a1a18c36256407"
+    },
+    {
+      "path": "config/litematica.json",
+      "hash": "9da1fb65525b4e61ca7ab53ff97b8f5462d62da9"
+    },
+    {
+      "path": "config/mafglib.json",
+      "hash": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
+    },
+    {
+      "path": "config/malilib.json",
+      "hash": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
+    },
+    {
+      "path": "config/minihud.json",
+      "hash": "736d8e2138a14ccf5b1dbaeb49baccd80711e65f"
+    },
+    {
+      "path": "config/modernfix-common.toml",
+      "hash": "046452d3af87f5c1fd5de5650e3d1b73c930fd92"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "5c8750afbbdc9613673e593f08ebaa921c8953b7"
+    },
+    {
+      "path": "config/moonlight-client.toml",
+      "hash": "f502b4994a4b2ba90c40cb82168ea33ec7f4e104"
+    },
+    {
+      "path": "config/moonlight-common.toml",
+      "hash": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "1cf6af8f684810f16b4a260bef444d25e3cf60bb"
+    },
+    {
+      "path": "config/mysterious_mountain_lib-common.toml",
+      "hash": "cc9c1e438fdc5577dcf8b8102bde9daedd2312b3"
+    },
+    {
+      "path": "config/naturescompass-client.toml",
+      "hash": "9572a3ae9de126cf0eceb382cf3ceb11c0cbc6e4"
+    },
+    {
+      "path": "config/naturescompass-common.toml",
+      "hash": "095abcfd7de9e2ce5dc7b3288a91cf5e1cd91e8d"
+    },
+    {
+      "path": "config/oculus.properties",
+      "hash": "49720e1cf68e6cf90bb810afa8c30b385f4633fe"
+    },
+    {
+      "path": "config/railways-client.toml",
+      "hash": "cf3f7e56ee64e560639a5404766612af12cfa091"
+    },
+    {
+      "path": "config/railways-common.toml",
+      "hash": "84c59bd1047708357987030f4b89caf0bb5dc030"
+    },
+    {
+      "path": "config/rrls.toml",
+      "hash": "204a146dd3ee59d69764c4a0764d433803126bf3"
+    },
+    {
+      "path": "config/screenshot_viewer-client.toml",
+      "hash": "ba2377898d1ba55818cbd313416ebf40c243b5cb"
+    },
+    {
+      "path": "config/sound_physics_remastered/allowed_sounds.properties",
+      "hash": "c28ab8ea862e948de7afdf394545b10ce3db74ae"
+    },
+    {
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "hash": "0a991974323d62c59fa1851ef6474f8cba138584"
+    },
+    {
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "hash": "592e29bf564b014a3b926f4a10fd53170722cc39"
+    },
+    {
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "hash": "79ef805245ec314add3d144ff42c6745320219f7"
+    },
+    {
+      "path": "config/supplementaries-client.toml",
+      "hash": "0b6460e31754425fc1c1c7be5d9dc340a66087fe"
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "hash": "15ee5ab724f1c82a859c5ebe6ddd14a47719c584"
+    },
+    {
+      "path": "config/tr7zwDonorSettings.json",
+      "hash": "6d1993e730a8f0e0b531b49bf0014fb9cdbc2f8f"
+    },
+    {
+      "path": "config/tweakerge.json",
+      "hash": "bc071a2a635555cecf7283bc1d6310287d3f5a27"
+    },
+    {
+      "path": "config/tweakeroo.json",
+      "hash": "73e932718fe6e3bc368d24229ecca74d382cc49e"
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "hash": "ccd3de3bb39c3307cc67e2cc2e4c9f76cd097935"
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "hash": "ba7502751f7e51793ebd1a8f295ce3bd61e1d421"
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "hash": "30a3bb09df44680c2e4f2ec6eb51aa2927696079"
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "hash": "7076cc54b6c7f233a7715bdc093ad6822738eca5"
+    },
+    {
+      "path": "config/voicechat/voicechat-volumes.properties",
+      "hash": "4eaca99c316dc0e047aa47897d73689054c1474d"
+    },
+    {
+      "path": "config/voicechat-client.toml",
+      "hash": "6a87c562a167f9b5faf95bf1f446422f887ff96a"
+    },
+    {
+      "path": "config/wecui3.yml",
+      "hash": "402c04592c069f1ed3597b5917166f9039d8c7a8"
+    },
+    {
+      "path": "config/worldedit/worldedit.properties",
+      "hash": "60f795907adc604860bb6558bff24602ab4afd46"
+    },
+    {
+      "path": "config/wwta-client.toml",
+      "hash": "f3d0a07f20b546b1191242fd5fa400d256ba7d4f"
+    },
+    {
+      "path": "config/xaerominimap-common.txt",
+      "hash": "6b046de5626a1a61b0ef7ff0dd2ae1de3c9bfcad"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "a4e8e1c2b21ab2e4d00bb470adcda5242f71849e"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "85372f4ea3a466aa83ac64269b88048314cafed3"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "ea102322bdf5be36acef1ed783e85b6a0d1ee418"
+    },
+    {
+      "path": "config/xaeroworldmap-common.txt",
+      "hash": "98767f3942b508f9de60bfdf029dd3ee00c3632d"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "f86cc110878f8eb18b8aa2beec4580b7739d2461"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID",
+      "hash": "2a34af9de16c4616a3d58b51cf8ce9e0bf6547d9"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinLoader.json",
+      "hash": "a37c0b4551d7ed245dcd7e3718b1cb7a4b1892e5"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "c89cfda7f39db44bc4f78c75fb55a315e8e4a1fe"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsairshipsalexruizart32pxpng_thumbnail.png",
+      "hash": "7c343ef556399613110779e31df4795337a98eb2"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsautumnnostalgiatree32pxpng.png",
+      "hash": "9447ebe4aa4a5e0d3cf8048602de9353ec30b47d"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsbeyondhillanddalealenaaenami32pxpng.png",
+      "hash": "fc29273907708a28f25009c15bfb434b701654f8"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingscavernsennin1332pxpng.png",
+      "hash": "069654b3d53214758dd4087d079a2245467c6a25"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsconceptbinubalan32pxpng_thumbnail.png",
+      "hash": "6248f70dc3c7bb18a094ab91767564c934c355a0"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingscthulhuandreewallin32pxpng.png",
+      "hash": "ceacfe583af1b4c20b94c39da748aa6077bb2f52"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsdarkphoenixstarkiteckt32pxpng_thumbnail.png",
+      "hash": "5ddf49cd9642e5c06669b5631197e4293eb72e77"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsdeerlandscapebyzwadher32pxpng.png",
+      "hash": "998658ee3135810f5f0887ef64d4b6cfb2797369"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsfrostvalleyjorgejacinto32pxpng.png",
+      "hash": "45d66a3d8074b90a8eee631d3e6ccb02f1f61d30"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsgothiclandscapesorokaalexej32pxpng.png",
+      "hash": "0a4d4461c05f2f8eab7c6b3e1d568a82e2470052"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingshazycastledavidfrasheski32pxpng_thumbnail.png",
+      "hash": "ee3c142fe68644d71d68ed0007a82a79fec7bc33"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsikrannebulastarkiteckt32pxpng.png",
+      "hash": "23e74a061c623a9fdbeb01f085810d46d8a4aa85"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingslakesareltheron32pxpng.png",
+      "hash": "04eff782bdc376ba95454d2207d3d5f3bce372fd"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingslifeintheskyvladimirkostuchek32pxpng.png",
+      "hash": "bab6e987604c28542801140b5fa3eb040e5604fd"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsnevermorejosefbarton32pxpng.png",
+      "hash": "b7f241e39b786372e37c0dce8f4011fd65376d51"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingssmallmemorymikaelgustafsson32pxpng.png",
+      "hash": "2c81d5619cc60c94dbfcb8c32be786b6ec85ede7"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingstheancientonesjessicawoulfe32pxpng.png",
+      "hash": "134ccfe93f4ce4ed79174188964a0343e5e8e115"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingstheesteemedpalacechrisostrowski32pxpng.png",
+      "hash": "240aa923394e5ee574d15a3f77a9ba42f5707291"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsthelostlegendxutianhua32pxpng.png",
+      "hash": "6ee233315af925c8a2acbd30438f2207cf9b1ceb"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsthetorchstarkiteckt32pxpng.png",
+      "hash": "0484cef7e0da52f108199b8911f9cd4c240fbf58"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingstranquilsundaywalkscilex32pxpng_thumbnail.png",
+      "hash": "b9bad90647bbd17854722acd4b1bd58aaa17622e"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsunderwatertox500032pxpng_thumbnail.png",
+      "hash": "68d8f550843dacece782ea04d9d7686a83bba665"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingsvenedigverena32pxpng.png",
+      "hash": "88f3ab8958b44dfadcac259ad7161b764c2b4bdb"
+    },
+    {
+      "path": "immersive_paintings_cache/immersivepaintingspaintingswindmilltowndarekzabrocki32pxpng_thumbnail.png",
+      "hash": "331e18d6d88b1986a91545e985957134f90618e4"
+    },
+    {
+      "path": "modernfix/structureCacheV1/farmersdelight_village_houses_desert_compost_pile_c806a3403a.nbt",
+      "hash": "884b69ef0bf98bb6ba9389c1bdaf6b1055f09aa9"
+    },
+    {
+      "path": "modernfix/structureCacheV1/farmersdelight_village_houses_plains_compost_pile_937cf64930.nbt",
+      "hash": "d3c31e1573b48b8a295a329d19f545c0b3bcbe8c"
+    },
+    {
+      "path": "modernfix/structureCacheV1/farmersdelight_village_houses_savanna_compost_pile_77b375390a.nbt",
+      "hash": "bfeaddb80282d5a36c9dce968de3e1d94a1fdd67"
+    },
+    {
+      "path": "modernfix/structureCacheV1/farmersdelight_village_houses_snowy_compost_pile_c81e4e4d50.nbt",
+      "hash": "3a59ab154ad9b8c63d018ed5f6b7e5a3c7fbfe1d"
+    },
+    {
+      "path": "modernfix/structureCacheV1/farmersdelight_village_houses_taiga_compost_pile_0b5bd60c4a.nbt",
+      "hash": "34db19baa267a7371e037919afec8e405b6d9226"
+    },
+    {
+      "path": "modernfix/structureCacheV1/supplementaries_way_sign_5afeece7b2.nbt",
+      "hash": "54042179d0d7dcd32edf6245f214db600c61b5cb"
+    },
+    {
+      "path": "mods/amendments-1.20-1.0.17.jar",
+      "hash": "dd6c296296ed17db3a6f63f28e9dacc0068a6a26"
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "hash": "81919356f84eab14258db98924b66c3c38e372b1"
+    },
+    {
+      "path": "mods/architectury-9.1.10-forge.jar",
+      "hash": "50801625f3d86513893c69fe3528b33bd833725c"
+    },
+    {
+      "path": "mods/astikorcarts-redux-1.20.1-1.1.7.jar",
+      "hash": "07e8717f2b66b2d40b95c3263cec597a1b54cb72"
+    },
+    {
+      "path": "mods/athena-forge-1.20.1-3.1.1.jar",
+      "hash": "1643af6a4c429048f36bf40857f58c9b3def7204"
+    },
+    {
+      "path": "mods/badpackets-forge-0.4.1.jar",
+      "hash": "728a98d8349b1f0c391299ad6bf8f9897014fb2a"
+    },
+    {
+      "path": "mods/BetterAdvancements-1.20.1-0.3.2.162.jar",
+      "hash": "2bfee5f676aae53d1cf7721d2db2329940b97ec0"
+    },
+    {
+      "path": "mods/betterfpsdist-1.20.1-4.1.jar",
+      "hash": "ada574d7ad8def61001f16b19ece41e3b9e5622d"
+    },
+    {
+      "path": "mods/BetterTitleScreen-1.20-1.13.2.jar",
+      "hash": "075ee65e1c1edb56b58b2d71d268097de9850cd2"
+    },
+    {
+      "path": "mods/BoccHUD-0.1.1-mc1.20.1.jar",
+      "hash": "5a75ed40c177bf31032e6704fce1fb28248a5ee5"
+    },
+    {
+      "path": "mods/catalogue-forge-1.20.1-1.8.0.jar",
+      "hash": "b8cc73db430fa6015671492d4332a65a8c2f5cae"
+    },
+    {
+      "path": "mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
+      "hash": "66d0ac56f3f6f1efbd6ed7b3cb4a48824d0585c0"
+    },
+    {
+      "path": "mods/chat_heads-0.10.30-forge-1.20.jar",
+      "hash": "10b989079285be6ece3c8f49b0eac7759d376da9"
+    },
+    {
+      "path": "mods/cloth-config-11.0.99-forge.jar",
+      "hash": "fc8b7f06edade29450fe3b1482103dd3bb36117a"
+    },
+    {
+      "path": "mods/configured-fabric-1.20.1-2.2.2.jar",
+      "hash": "df4ac94c5986a5bdb0f5f1f29d9c408bd48cc445"
+    },
+    {
+      "path": "mods/construction_deco_Forge_1.20.1.jar",
+      "hash": "5583bdf665c201938b579b9e74e2d631520078cd"
+    },
+    {
+      "path": "mods/ContingameIME-1.0.6-1.20.1-forge.jar",
+      "hash": "46984334786df63f0f855564bfb57be41924235b"
+    },
+    {
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "hash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
+    },
+    {
+      "path": "mods/corn_delight-1.0.3-1.20.1.jar",
+      "hash": "0562ab4a90431fb43f2c90a8c29c118ee0c73765"
+    },
+    {
+      "path": "mods/create-1.20.1-0.5.1.f.jar",
+      "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
+    },
+    {
+      "path": "mods/createbigcannons-forge-1.20.1-0.5.3.b.jar",
+      "hash": "8e89e0d04b7fa7e151fdb26b9e7945464685f745"
+    },
+    {
+      "path": "mods/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.9.d.jar",
+      "hash": "ba7a066c09972db30e8620e00db4c60438398b0c"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
+      "hash": "51927c0108b55ef62f62714908cca0bc53bbe6dd"
+    },
+    {
+      "path": "mods/cupboard-1.20.1-2.2.jar",
+      "hash": "7ed722b0ab7aee3503d4ef0888dffe06557c6e37"
+    },
+    {
+      "path": "mods/curios-forge-5.6.1+1.20.1.jar",
+      "hash": "0395fe6b710f5bf0d27cb5c844049f4de2f26d50"
+    },
+    {
+      "path": "mods/curtain-mc1.20.1-1.3.2.jar",
+      "hash": "9f84c5e9760e08a7b9cf388d6c03f2a29e90ba32"
+    },
+    {
+      "path": "mods/CustomSkinLoader_ForgeActive-15.0-SNAPSHOT-10.jar",
+      "hash": "8105c80280957427ef845317da1a7ae65997420a"
+    },
+    {
+      "path": "mods/CustomWindowTitle-Forge-1.20+v1.2.0.jar",
+      "hash": "253b9a3cb915d85c06a639ac54f9a43c858dde64"
+    },
+    {
+      "path": "mods/decorative+lattices-1.20.1-1.2_Forge.jar",
+      "hash": "2474d2fa3931d5c2a448a89c57536eb51e60acd3"
+    },
+    {
+      "path": "mods/DiagonalFences-v8.1.2-1.20.1-Forge.jar",
+      "hash": "428c381966bf6d1a283c6d77d50e479f9ba293fd"
+    },
+    {
+      "path": "mods/DiagonalWalls-v8.0.2-1.20.1-Forge.jar",
+      "hash": "7dc8ef30160322e2a371de1f44957bc8a1cf23b3"
+    },
+    {
+      "path": "mods/DiagonalWindows-v8.1.3-1.20.1-Forge.jar",
+      "hash": "070d2531e734e21ef23232bba91d463f8be1b543"
+    },
+    {
+      "path": "mods/Durability101-forge-1.20-0.0.4.jar",
+      "hash": "2b146cf6bf044e30e68a595ba336e84e3693affa"
+    },
+    {
+      "path": "mods/dynamiccrosshair-7.4.2+1.20-forge.jar",
+      "hash": "071fa633771d5794c59c9aeef88f8b9c29257ff3"
+    },
+    {
+      "path": "mods/dynamiclightsreforged-1.20.1_v1.6.0.jar",
+      "hash": "323498a94ba91e24417c0ae1bc34bb4b461c0a3a"
+    },
+    {
+      "path": "mods/embeddium-0.3.1+mc1.20.1.jar",
+      "hash": "97f4c00e2bdd24b4cbd88619b8f8e122ae5de998"
+    },
+    {
+      "path": "mods/embeddiumextras-1.20.1-v2.0.0.jar",
+      "hash": "e971f11f98eb7ef50b8c774a1fe7beb170f8d3ec"
+    },
+    {
+      "path": "mods/entityculling-forge-1.6.2-mc1.20.1.jar",
+      "hash": "a184f3a963c07f7026fb6d8ccd83ca29e7f7b009"
+    },
+    {
+      "path": "mods/ExplorersCompass-1.20.1-1.3.3-forge.jar",
+      "hash": "8692f5d71488389d178e479d7c86bce06e344381"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.3.jar",
+      "hash": "115fe7a8f0fcce534915f5e35f96017d602cebe2"
+    },
+    {
+      "path": "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "hash": "27d58f123951e0404c94caf16ff9b96b442f371c"
+    },
+    {
+      "path": "mods/ferritecore-6.0.0-forge.jar",
+      "hash": "5c090bf8e882c0ccb9dcdb4afe712fa430e03a02"
+    },
+    {
+      "path": "mods/forgeautofish-6.0.0-1.20.1.jar",
+      "hash": "9db2f9a9af422d72dd9ba9e51c07eafe6a846b09"
+    },
+    {
+      "path": "mods/Forgematica-0.1.2-mc1.20.1.jar",
+      "hash": "c74e07f154d744cd1b623d25f7d37b2bb80d902a"
+    },
+    {
+      "path": "mods/FpsReducer2-forge-1.20-2.5.jar",
+      "hash": "d7d5af20faa2bd7012aa2d34b5804324aa273092"
+    },
+    {
+      "path": "mods/gamemenumodoption-mc1.20.1-2.2.1.jar",
+      "hash": "3de6257b1bac0cb2f4d19baee7234ec497876fec"
+    },
+    {
+      "path": "mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
+      "hash": "46910c10470c43cb1566384e9422fb76b341b84c"
+    },
+    {
+      "path": "mods/InGameAccountSwitcher-Forge-1.20-8.0.2.jar",
+      "hash": "c96f5792355f4b7fc247a30ee4fb8deb50e2a18d"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-forge-1.20-1.10.4.jar",
+      "hash": "40a053e12066f86ca55c74749de6de29e1e9f72b"
+    },
+    {
+      "path": "mods/invhud.forge.1.20.1-3.4.18.jar",
+      "hash": "0ab697cc46a1fd67c7c6b02130c06258bb01ecfc"
+    },
+    {
+      "path": "mods/ItemPhysicLite_FORGE_v1.6.1_mc1.20.jar",
+      "hash": "283c9706aa3394a21511dad30433cd38db1d5aa9"
+    },
+    {
+      "path": "mods/Jade-1.20.1-forge-11.7.1.jar",
+      "hash": "6a17415a34591168203b8ed6f334a349da55f797"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.2.0.27.jar",
+      "hash": "a565f2e31fc2bbe6f297a4ca25241cbfd704ef6b"
+    },
+    {
+      "path": "mods/kotlinforforge-4.3.0-all.jar",
+      "hash": "8ee4cc16fa04a089f5386baae13137364c29a287"
+    },
+    {
+      "path": "mods/lanserverproperties-1.11.1-forge.jar",
+      "hash": "6ae8c8a97e51b6f2b9e72cd5812bdf4880588363"
+    },
+    {
+      "path": "mods/libIPN-forge-1.20-3.0.2.jar",
+      "hash": "4082afba9038cf0ff52671b2fbe390304eba90e5"
+    },
+    {
+      "path": "mods/LoadedModsExporter-5.0.jar",
+      "hash": "2de6a13c4069760d71d24f50b26814e646e69306"
+    },
+    {
+      "path": "mods/MaFgLib-0.1.3-mc1.20.1.jar",
+      "hash": "aed282079a18dc73e7aeefec61f563143d6bc390"
+    },
+    {
+      "path": "mods/modernfix-forge-5.11.1+mc1.20.1.jar",
+      "hash": "38446389264d82bc9ecb935c1d4dc96e76697477"
+    },
+    {
+      "path": "mods/moonlight-1.20-2.10.8-forge.jar",
+      "hash": "a67a09da0ba8b2c8c31aba1a28cca15b8f4d0b84"
+    },
+    {
+      "path": "mods/MouseTweaks-forge-mc1.20-2.25.jar",
+      "hash": "f3e8805d706a36717306d92bd5c45cb2aef854b6"
+    },
+    {
+      "path": "mods/mysterious_mountain_lib-1.4.2-1.20.1.jar",
+      "hash": "d5196b541614a609b9e15d49a1198ab1a4a3ead0"
+    },
+    {
+      "path": "mods/NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "hash": "31ae930cdbb34e8e05e1954cfb2fee3a3813e850"
+    },
+    {
+      "path": "mods/oculus-flywheel-compat-1.20.1-0.2.0.jar",
+      "hash": "6afe62ae9ea0b08e151fff4d38dc69f4044fd244"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.6.15.jar",
+      "hash": "6575bf1885a9910e00b244b63ba059090e48be96"
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.1.16-1.20.1-Forge.jar",
+      "hash": "62c341b9cc7f1c37b2804d8319d9a6f883807945"
+    },
+    {
+      "path": "mods/Rrls-1.20.1-3.1.0-forge.jar",
+      "hash": "abf3e64a04451cdc53ce404484e6aa1be5194ec5"
+    },
+    {
+      "path": "mods/screenshot_viewer-1.2.1-forge-mc1.20.1.jar",
+      "hash": "9247f2dc8ec0c7d7f855701d9d34fd248e82863a"
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.2.jar",
+      "hash": "15548b2b50b700c0ffe2b9c4de80dfe510db208d"
+    },
+    {
+      "path": "mods/shulkerboxtooltip-forge-4.0.4+1.20.1.jar",
+      "hash": "467a97815cd47ee8843f1e3b6e520ca1d6a81fe7"
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.3.1.jar",
+      "hash": "47b74fae41e3a677dbbb939d67b4160f3e4af5b6"
+    },
+    {
+      "path": "mods/Steam_Rails-1.5.3+forge-mc1.20.1.jar",
+      "hash": "dd57c0f6b62945d927bb789598bc342ed70e736d"
+    },
+    {
+      "path": "mods/supplementaries-1.20-2.8.1.jar",
+      "hash": "26613681aebf3a4a169180966dfedbbc11b00cd1"
+    },
+    {
+      "path": "mods/textrues_embeddium_options-0.1.5+mc1.20.1.jar",
+      "hash": "f35d0566e43cde0c4ffba9ecf893209b2b96b0c8"
+    },
+    {
+      "path": "mods/Tweakerge-0.1.1-mc1.20.1.jar",
+      "hash": "a5833f46a73a90a2af323e614906acdc745ccca7"
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.4.32.jar",
+      "hash": "0ddc174a52973036e5fcfd2fb72686b3b18aed3f"
+    },
+    {
+      "path": "mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "hash": "de100712cf2b7187a23f5cd726b93e576592979b"
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "hash": "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.37.8_Forge_1.20.jar",
+      "hash": "e319cba367b5b46974006b4c8402d5d80a8785be"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_23.9.3_Forge_1.20.jar",
+      "hash": "f7b9642bb46b64756908cd4e631d1b5b878f1993"
+    },
+    {
+      "path": "mods/YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+      "hash": "6efdaf5d213f779e51aa84631a5f06a306351e75"
+    },
+    {
+      "path": "options.txt",
+      "hash": "8195a9915b1528a19d4c64d5ea3e47a769a49c92"
+    },
+    {
+      "path": "resourcepacks/Better-Leaves-71.20.zip",
+      "hash": "bffd7ef4a52e9bb1a93ba723f3dacb7270c64dc9"
+    },
+    {
+      "path": "resourcepacks/Furnish Door Knock Silencer.zip",
+      "hash": "b4995b986926de8db3fd778dbd8bd68aaf5f64e0"
+    },
+    {
+      "path": "resourcepacks/Midnighttiggers-ACT-Default_1.20.1_V2.zip",
+      "hash": "7e5ae3206f362d71a3236351cac3d7b0b8a1f2db"
+    },
+    {
+      "path": "resourcepacks/Redstone Display v3.2forMC1.20.1.zip",
+      "hash": "d596ecf5d00d4e17260aa8795217cbe411911c52"
+    },
+    {
+      "path": "resourcepacks/XPlus 配套基础材质[masa汉化][反南瓜头GUI]v0.0.3.zip",
+      "hash": "7000fd0978db874f85dfd199f3b22f33fc3c175e"
+    },
+    {
+      "path": "resourcepacks/思源黑体.zip",
+      "hash": "5019ac1de4467e381b365b78c886bb2548d38b01"
+    },
+    {
+      "path": "resourcepacks/汉化材质-[1.19.2]Xaeros世界地图\u0026amp;amp;小地图汉化221105.zip",
+      "hash": "cd63cc10c9c9d9684741bb21db67937881f95755"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "9327d916f498d51a1faef5fa64dd15474d849b59"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "a3eeefa75fa63e743c1d07b1f7263c88824a3b38"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.08.zip",
+      "hash": "5c10ed196eb5bb5b2b36685803775b2ae72eb378"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.08.zip.txt",
+      "hash": "1249b493d721fe51f22e94c637a425290358d926"
+    },
+    {
+      "path": "shaderpacks/[光影][汉化]ComplementaryShader_r5.1.1.zip",
+      "hash": "c2df612005b4d2b374b39227ed91c9a6e5504c1a"
+    },
+    {
+      "path": "shaderpacks/[光影][汉化]ComplementaryShader_r5.1.1.zip.txt",
+      "hash": "fd781ec18b40c9a02c1b8ef5130f71a822659859"
+    },
+    {
+      "path": "shaderpacks/超低配水反光影.zip",
+      "hash": "0be861ce9383533519fc6f8a54f1ad6bc2610357"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.2.17"
+    }
+  ]
+}
