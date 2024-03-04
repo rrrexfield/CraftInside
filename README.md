@@ -18,7 +18,7 @@
 
 ### 安装教程
 
-**从本服务器的QQ群、[Gitee仓库](https://gitee.com/numerousx/craft-inside/tree/master)、Github仓库下载最新版本整合包，在你的启动器中选择“安装整合包”或“导入整合包”，选择你下载好的本整合包的.zip压缩包文件，点击确定即可完成安装。**
+**从本服务器的QQ群、[Gitee仓库](https://gitee.com/numerousx/craft-inside)、[Github仓库](https://github.com/rrrexfield/CraftInside)下载最新版本整合包，在你的启动器中选择“安装整合包”或“导入整合包”，选择你下载好的本整合包的.zip压缩包文件，点击确定即可完成安装。**
 
 **推荐启动器：**[HMCL](https://hmcl.huangyuhui.net/download/) , [PCL2](https://afdian.net/p/0164034c016c11ebafcb52540025c377) （点击即可下载）
 
@@ -53,7 +53,7 @@
 ## 获得支持
 
 - **游戏相关问题：** 您可以在服务器QQ群提问，也可以向support@mail.craftinside.uk发送反馈邮件。
-- **客户端整合包BUG：** 您可以在本项目的[Gitee页面](https://gitee.com/numerousx/craft-inside/tree/master)或Github页面提交Issue，也可以向support@mail.craftinside.uk发送反馈邮件。
+- **客户端整合包BUG：** 您可以在本项目的[Gitee页面](https://gitee.com/numerousx/craft-inside)或[Github页面](https://github.com/rrrexfield/CraftInside)提交Issue，也可以向support@mail.craftinside.uk发送反馈邮件。
 
 我们一直在这里支持你！无论是游戏中遇到的问题还是对于服务器的疑问，我们的支持团队将尽我们所能为你提供帮助，让你在Minecraft世界中畅享乐趣，尽情展现自己的创造力！
 
@@ -62,6 +62,7 @@
 - 如果你发现了有趣的模组，并想在CraftInside服务器上游玩，可以在服务器QQ群中提出你的idea，我们一起让CraftInside的世界变得更加多彩。
 
 - 你的支持是我们前进的动力！本服务器完全由腐竹用爱发电驱动，通过捐款，你将直接支持服务器的运营和发展，帮助我们不断提升游戏体验，为玩家们带来更多惊喜和乐趣！每一份捐助都将被用于服务器的改进和维护，让我们共同为这片美好的Minecraft世界添砖加瓦！
+*<div align=right>若您暂无经济来源请勿赞助*
 
 [<div align=center>![](https://pic.imgdb.cn/item/65e412c49f345e8d032d9ec2.jpg)](pic2)
 
@@ -107,10 +108,10 @@
 - [Bocc HUD] 孤独HUD
 - [Auto Fish] 自动钓鱼
 - [Dynamic Crosshair] 动态准星
-- [Curtain] 地毯
 - [Chat Heads] 聊天头像
 - [Better Advancements] 更好的进度
 - [Better FPS]
+- [Curtain]
 - [Shulker BoxTooltip]
 - [Tweakerge]
 - [Mouse Tweaks]
