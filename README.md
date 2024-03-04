@@ -9,7 +9,7 @@
 
 [<div align=center>![](https://pic.imgdb.cn/item/65e412c59f345e8d032d9f99.jpg)](pic1)
 
-*<div align=right>注：本服务器正处于公测阶段，故暂未开放公共进服通道*
+<div align=right>注：本服务器正处于公测阶段，故暂未开放公共进服通道
 
 
 <div align=left>
