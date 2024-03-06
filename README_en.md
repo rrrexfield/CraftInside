@@ -1,4 +1,4 @@
-##[中文](https://github.com/rrrexfield/CraftInside/blob/master/README.md) | English
+[中文](https://github.com/rrrexfield/CraftInside/blob/master/README.md) | English
 
 **Welcome to the Minecraft world of CraftInside! This is not just a game server, but also a creative paradise. Here, you will open the doors to endless possibilities, unlock the power of creativity, join our server, and embark on your adventure with like-minded companions!**
 

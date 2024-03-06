@@ -1,4 +1,4 @@
-##中文 | [English](https://github.com/rrrexfield/CraftInside/blob/master/README_en.md)
+中文 | [English](https://github.com/rrrexfield/CraftInside/blob/master/README_en.md)
 
 # **CraftInside服务器整合包**
 
