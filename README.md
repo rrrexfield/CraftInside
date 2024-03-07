@@ -1,5 +1,9 @@
 中文 | [English](https://github.com/rrrexfield/CraftInside/blob/master/README_en.md)
 
+
+![image](https://github.com/ElemCraftInside-Server/ElemCraftInside-Modpack/blob/Development-Log/IMG_20240307_233125.jpg)
+
+
 # **CraftInside服务器整合包**
 
 **欢迎来到CraftInside的Minecraft世界！这里不仅是一个游戏服务器，更是一个创意的乐园。在这里，你将开启无限可能性的大门，解锁创造力的力量，加入我们的服务器，与志同道合的伙伴一起开启你的冒险之旅！**
