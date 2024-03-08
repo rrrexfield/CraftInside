@@ -1,8 +1,8 @@
 {
-  "name": "CraftInside Modpack(Oculus-Forge)v0.4a",
+  "name": "CraftInside Modpack(Oculus-Forge)v0.4b",
   "author": "Numerous",
-  "version": "0.4a",
-  "description": "\u003c!DOCTYPE html\u003e\u003chtml\u003e\u003chead\u003e\n      \u003ctitle\u003eReadme\u003c/title\u003e\n      \u003cmeta charset\u003d\"utf-8\"\u003e\n      \u003cmeta name\u003d\"viewport\" content\u003d\"width\u003ddevice-width, initial-scale\u003d1.0\"\u003e\n      \n      \u003clink rel\u003d\"stylesheet\" href\u003d\"file:///c:\\Users\\union\\.vscode\\extensions\\shd101wyy.markdown-preview-enhanced-0.8.11\\crossnote\\dependencies\\katex\\katex.min.css\"\u003e\n      \n      \n      \n      \n      \n      \u003cstyle\u003e\n      code[class*\u003dlanguage-],pre[class*\u003dlanguage-]{color:#333;background:0 0;font-family:Consolas,\"Liberation Mono\",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*\u003dlanguage-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)\u003ecode[class*\u003dlanguage-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:\u0027Helvetica Neue\u0027,Helvetica,\u0027Segoe UI\u0027,Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body\u003e:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body\u003ep{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body\u003eol,html body\u003eul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li\u003ep{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote\u003e:first-child{margin-top:0}html body blockquote\u003e:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,\u0027Courier New\u0027,monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:\u0027\\00a0\u0027}html body pre\u003ecode{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers\u003ecode{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows\u003espan{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows\u003espan:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for\u003dpreview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for\u003dpreview]) .code-chunk .status{display:none}.markdown-preview:not([data-for\u003dpreview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for\u003dhtml-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for\u003dhtml-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for\u003dhtml-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for\u003dhtml-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for\u003dhtml-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}\n/* Please visit the URL below for more information: */\n/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */\n\n      \u003c/style\u003e\n      \u003c!-- The content below will be included at the end of the \u003chead\u003e element. --\u003e\u003cscript type\u003d\"text/javascript\"\u003e\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    // your code here\n  });\n\u003c/script\u003e\u003c/head\u003e\u003cbody for\u003d\"html-export\"\u003e\n    \n    \n      \u003cdiv class\u003d\"crossnote markdown-preview  \"\u003e\n      \n\u003cp\u003e\u003cscript type\u003d\"text/javascript\" src\u003d\"https://haogeshuohuanihaohaoting.github.io/static/mdCreateMenu.js\"\u003e\u003c/script\u003e\u003c/p\u003e\n\u003ch1 id\u003d\"craftinside服务器整合包\"\u003e\u003cstrong\u003eCraftInside服务器整合包\u003c/strong\u003e \u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e欢迎来到CraftInside的Minecraft世界！这里不仅是一个游戏服务器，更是一个创意的乐园。在这里，你将开启无限可能性的大门，解锁创造力的力量，加入我们的服务器，与志同道合的伙伴一起开启你的冒险之旅！\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e探索 \u003cem\u003e机械动力、农夫乐事、装饰、家具\u003c/em\u003e 等模组的秘密，突破Minecraft原版限制。无论是打造更复杂、更高效的机器，还是体验烹饪的乐趣，抑或是建造更漂亮、更真实的建筑，我们的服务器始终为你敞开，我们的使用文档将为你提供详尽的指导，助你成为一名真正的Minecraft大师！\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"pic1\"\u003e\u003c/a\u003e\u003c/p\u003e\u003cdiv align\u003d\"center\"\u003e\u003ca href\u003d\"pic1\"\u003e\u003cimg src\u003d\"https://pic.imgdb.cn/item/65e412c59f345e8d032d9f99.jpg\" alt\u003d\"\"\u003e\u003c/a\u003e\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003c/em\u003e\u003c/p\u003e\u003cdiv align\u003d\"right\"\u003e\u003cem\u003e注：本服务器正处于公测阶段，故暂未开放公共进服通道\u003c/em\u003e\u003cp\u003e\u003c/p\u003e\n\u003cdiv align\u003d\"left\"\u003e\n\u003ch2 id\u003d\"使用说明\"\u003e使用说明 \u003c/h2\u003e\n\u003ch3 id\u003d\"安装教程\"\u003e安装教程 \u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003e从本服务器的QQ群、\u003ca href\u003d\"https://gitee.com/numerousx/craft-inside/tree/master\"\u003eGitee仓库\u003c/a\u003e、Github仓库下载最新版本整合包，在你的启动器中选择“安装整合包”或“导入整合包”，选择你下载好的本整合包的.zip压缩包文件，点击确定即可完成安装。\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e推荐启动器：\u003c/strong\u003e\u003ca href\u003d\"https://hmcl.huangyuhui.net/download/\"\u003eHMCL\u003c/a\u003e , \u003ca href\u003d\"https://afdian.net/p/0164034c016c11ebafcb52540025c377\"\u003ePCL2\u003c/a\u003e （点击即可下载）\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e相关教程：\u003ca href\u003d\"https://www.bilibili.com/read/cv24334696/\"\u003eBiliBili - 我的世界本地整合包安装教程HMCL和PCL2\u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch3 id\u003d\"注意\"\u003e注意 \u003c/h3\u003e\n\u003col\u003e\n\u003cli\u003e本服\u003cstrong\u003e仅支持Java版进入，不支持基岩版！\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e服务器支持\u003cstrong\u003e正版登录、LittleSkin登录!\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e请事先确认您\u003cstrong\u003e已安装了Java17或更高版本的Java！\u003c/strong\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e服务器常用命令\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003ccode\u003e/home\u003c/code\u003e 回到玩家出生点\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/back\u003c/code\u003e 回到上一次传送点/死亡地点\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpa\u003c/code\u003e或\u003ccode\u003e/tpask\u003c/code\u003e 请求传送到某人身旁\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpacancel\u003c/code\u003e 取消传送请求\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpaccept\u003c/code\u003e 接受传送请求\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpdeny\u003c/code\u003e 拒绝传送请求\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/co i\u003c/code\u003e 查看方块行为日志\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e客户端常用按键\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003ccode\u003eC\u003c/code\u003e 放大（望远镜）- \u003ccode\u003eC + 鼠标滚轮\u003c/code\u003e 变焦（调整放大倍率）\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eV\u003c/code\u003e 打开语音聊天界面 - \u003ccode\u003eG\u003c/code\u003e 打开语音聊天群组设置\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eTap\u003c/code\u003e 显示在线玩家信息及小地图生物头像\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eJ\u003c/code\u003e 打开投影设置界面\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eO\u003c/code\u003e 打开视频设置界面\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eR\u003c/code\u003e 重新加载光影\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cem\u003e其他按键设置请在Mod列表中或控制选项中自行查看\u003c/em\u003e\u003c/p\u003e\n\u003ch2 id\u003d\"获得支持\"\u003e获得支持 \u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e游戏相关问题：\u003c/strong\u003e 您可以在服务器QQ群提问，也可以向support@mail.craftinside.uk发送反馈邮件。\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e客户端整合包BUG：\u003c/strong\u003e 您可以在本项目的\u003ca href\u003d\"https://gitee.com/numerousx/craft-inside/tree/master\"\u003eGitee页面\u003c/a\u003e或Github页面提交Issue，也可以向support@mail.craftinside.uk发送反馈邮件。\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e我们一直在这里支持你！无论是游戏中遇到的问题还是对于服务器的疑问，我们的支持团队将尽我们所能为你提供帮助，让你在Minecraft世界中畅享乐趣，尽情展现自己的创造力！\u003c/p\u003e\n\u003ch2 id\u003d\"帮助我们变得更好\"\u003e帮助我们变得更好 \u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e如果你发现了有趣的模组，并想在CraftInside服务器上游玩，可以在服务器QQ群中提出你的idea，我们一起让CraftInside的世界变得更加多彩。\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e你的支持是我们前进的动力！本服务器完全由腐竹用爱发电驱动，通过捐款，你将直接支持服务器的运营和发展，帮助我们不断提升游戏体验，为玩家们带来更多惊喜和乐趣！每一份捐助都将被用于服务器的改进和维护，让我们共同为这片美好的Minecraft世界添砖加瓦！\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003ca href\u003d\"pic2\"\u003e\u003c/a\u003e\u003c/p\u003e\u003cdiv align\u003d\"center\"\u003e\u003ca href\u003d\"pic2\"\u003e\u003cimg src\u003d\"https://pic.imgdb.cn/item/65e412c49f345e8d032d9ec2.jpg\" alt\u003d\"\"\u003e\u003c/a\u003e\u003cp\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cdiv align\u003d\"left\"\u003e\n\u003ch2 id\u003d\"附录模组列表\"\u003e附录：模组列表 \u003c/h2\u003e\n\u003ch3 id\u003d\"玩法类\"\u003e玩法类 \u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e[Creae] 机械动力\u003c/li\u003e\n\u003cli\u003e[Create: Steam \u0027n\u0027 Rails] 机械动力：汽鸣铁道\u003c/li\u003e\n\u003cli\u003e[Create: Big Cannons] 机械动力：火炮\u003c/li\u003e\n\u003cli\u003e[Farmer\u0027s Delight] 农夫乐事\u003c/li\u003e\n\u003cli\u003e[Corn Delight] 玉米乐事\u003c/li\u003e\n\u003cli\u003e[Explorer\u0027s Compass] 探险者罗盘\u003c/li\u003e\n\u003cli\u003e[Nature Compass] 自然罗盘\u003c/li\u003e\n\u003cli\u003e[AstikorCarts Redux] 人力拉车\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id\u003d\"装饰类\"\u003e装饰类 \u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e[Supplementaries] 锦致装饰\u003c/li\u003e\n\u003cli\u003e[MrCrayfish\u0027s Furniture Mod] MrCrayfish的家具\u003c/li\u003e\n\u003cli\u003e[Decorative Lattices] 装饰框格\u003c/li\u003e\n\u003cli\u003e[PlayTics Deco] 工地装饰\u003c/li\u003e\n\u003cli\u003e[Immersive Paintings] 沉浸画框\u003c/li\u003e\n\u003cli\u003e[Diagonal Walls] 对角线围墙\u003c/li\u003e\n\u003cli\u003e[Diagonal Fences] 对角线栅栏\u003c/li\u003e\n\u003cli\u003e[Diagonal Windows] 对角线玻璃板\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id\u003d\"辅助类\"\u003e辅助类 \u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e[AppleSkin] 苹果皮\u003c/li\u003e\n\u003cli\u003e[Forgematica] 全息蓝图（投影）\u003c/li\u003e\n\u003cli\u003e[Simple Voice Chat] 简单语音聊天\u003c/li\u003e\n\u003cli\u003e[Xaero\u0027s Mini Map] Xaero的小地图\u003c/li\u003e\n\u003cli\u003e[Xaero\u0027s World Map] Xaero的世界地图\u003c/li\u003e\n\u003cli\u003e[WI Zoom] WI变焦\u003c/li\u003e\n\u003cli\u003e[Just Enough Items] JEI物品管理\u003c/li\u003e\n\u003cli\u003e[Inventory HUD+] 物品栏HUD+\u003c/li\u003e\n\u003cli\u003e[Inventory Profiles Next] 一件背包整理Next\u003c/li\u003e\n\u003cli\u003e[Bocc HUD] 孤独HUD\u003c/li\u003e\n\u003cli\u003e[Auto Fish] 自动钓鱼\u003c/li\u003e\n\u003cli\u003e[Dynamic Crosshair] 动态准星\u003c/li\u003e\n\u003cli\u003e[Curtain] 地毯\u003c/li\u003e\n\u003cli\u003e[Chat Heads] 聊天头像\u003c/li\u003e\n\u003cli\u003e[Better Advancements] 更好的进度\u003c/l",
+  "version": "0.4b",
+  "description": "",
   "fileApi": "https://gitee.com/numerousx/craft-inside/raw/master",
   "files": [
     {
@@ -24,6 +24,10 @@
     {
       "path": "config/astikorcarts-common.toml",
       "hash": "8a3dadb5226f24f19ea7f7b49c329c4eb097404a"
+    },
+    {
+      "path": "config/bcc-common.toml",
+      "hash": "17f625746cb20e62f97ee088f1cdeb657f1e3a2d"
     },
     {
       "path": "config/beautifiedchatclient-common.toml",
@@ -203,7 +207,7 @@
     },
     {
       "path": "config/embeddium-fingerprint.json",
-      "hash": "a889d8b76ba91cb2bfcb3cb64e0fc0a6440f3c6d"
+      "hash": "68bdcf03207f114a7d7368bbab09a4b27185a1b7"
     },
     {
       "path": "config/embeddium-mixins.properties",
@@ -535,7 +539,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "49720e1cf68e6cf90bb810afa8c30b385f4633fe"
+      "hash": "18e26c0d87f55343d07e896f5d5c1bfd28cc94c4"
     },
     {
       "path": "config/railways-client.toml",
@@ -559,11 +563,11 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "0a991974323d62c59fa1851ef6474f8cba138584"
+      "hash": "58830935cd538bea689f61b5e611761cdb0477a8"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "592e29bf564b014a3b926f4a10fd53170722cc39"
+      "hash": "c1587a01d0b0c09c0d131f4beb2d62e3a510c928"
     },
     {
       "path": "config/sound_physics_remastered/soundphysics.properties",
@@ -576,6 +580,10 @@
     {
       "path": "config/supplementaries-common.toml",
       "hash": "15ee5ab724f1c82a859c5ebe6ddd14a47719c584"
+    },
+    {
+      "path": "config/tanukidecor-common.toml",
+      "hash": "a144ec37976e4301b66e64621ba271f3e05384c4"
     },
     {
       "path": "config/tr7zwDonorSettings.json",
@@ -595,11 +603,11 @@
     },
     {
       "path": "config/voicechat/username-cache.json",
-      "hash": "ba7502751f7e51793ebd1a8f295ce3bd61e1d421"
+      "hash": "75836e9cf095bdd55cd3d2f41112d5cbbfdd2e0a"
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "30a3bb09df44680c2e4f2ec6eb51aa2927696079"
+      "hash": "c3048109152f966c68fef3019fb4ce3702278922"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -619,7 +627,7 @@
     },
     {
       "path": "config/worldedit/worldedit.properties",
-      "hash": "60f795907adc604860bb6558bff24602ab4afd46"
+      "hash": "27ee86f7d1e0aa18b3f713207eb8ebea1026d3f5"
     },
     {
       "path": "config/wwta-client.toml",
@@ -635,7 +643,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "85372f4ea3a466aa83ac64269b88048314cafed3"
+      "hash": "4e5695d8a229cb4a3501dcc9348567f430dcfa00"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -659,7 +667,7 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "c89cfda7f39db44bc4f78c75fb55a315e8e4a1fe"
+      "hash": "7ca93936b7d18f354e51a61d006f8c02d690d6bf"
     },
     {
       "path": "immersive_paintings_cache/immersivepaintingspaintingsairshipsalexruizart32pxpng_thumbnail.png",
@@ -808,6 +816,10 @@
     {
       "path": "mods/BetterAdvancements-1.20.1-0.3.2.162.jar",
       "hash": "2bfee5f676aae53d1cf7721d2db2329940b97ec0"
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+      "hash": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae"
     },
     {
       "path": "mods/betterfpsdist-1.20.1-4.1.jar",
@@ -1107,7 +1119,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "8195a9915b1528a19d4c64d5ea3e47a769a49c92"
+      "hash": "80d1e0a30a8e32e2f2839906842f5ffa3e720dd1"
     },
     {
       "path": "resourcepacks/Better-Leaves-71.20.zip",
@@ -1138,12 +1150,384 @@
       "hash": "cd63cc10c9c9d9684741bb21db67937881f95755"
     },
     {
+      "path": "saves/新的世界/advancements/83ad615d-b5bc-4025-96e7-b8aa1ee9adf3.json",
+      "hash": "e2ce26cc432b139cf8c5856d4ffbd8c3cf8876dd"
+    },
+    {
+      "path": "saves/新的世界/curtain.json",
+      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "saves/新的世界/data/capabilities.dat",
+      "hash": "9c53219da9874dbf11db5919b455f9170e11c510"
+    },
+    {
+      "path": "saves/新的世界/data/mfix_strongholds.dat",
+      "hash": "842de4ce1fdacb906f463a10252feb1d49b4da4f"
+    },
+    {
+      "path": "saves/新的世界/data/raids.dat",
+      "hash": "3cccb04460433b5d7a7e381466aa95b9860118f0"
+    },
+    {
+      "path": "saves/新的世界/data/random_sequences.dat",
+      "hash": "04fc81a09d416f06dc816a48b45e0bac809441a6"
+    },
+    {
+      "path": "saves/新的世界/data/ritchiesprojectilelib_chunk_manager.dat",
+      "hash": "58ac3dd755ec941d55a6f88c78e947d108d9d963"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/data/capabilities.dat",
+      "hash": "9c53219da9874dbf11db5919b455f9170e11c510"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/data/raids.dat",
+      "hash": "3cccb04460433b5d7a7e381466aa95b9860118f0"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/data/ritchiesprojectilelib_chunk_manager.dat",
+      "hash": "58ac3dd755ec941d55a6f88c78e947d108d9d963"
+    },
+    {
+      "path": "saves/新的世界/DIM1/data/capabilities.dat",
+      "hash": "9c53219da9874dbf11db5919b455f9170e11c510"
+    },
+    {
+      "path": "saves/新的世界/DIM1/data/raids_end.dat",
+      "hash": "3cccb04460433b5d7a7e381466aa95b9860118f0"
+    },
+    {
+      "path": "saves/新的世界/DIM1/data/ritchiesprojectilelib_chunk_manager.dat",
+      "hash": "58ac3dd755ec941d55a6f88c78e947d108d9d963"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.-1.mca",
+      "hash": "59a829b5d24d0f3988a7f24fcd6e60d536943a6b"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.-2.mca",
+      "hash": "7532d7be8164f1a9488e4c58b7329cf4b87d77dc"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.0.mca",
+      "hash": "07bcf9e5cbaec80a1179abea275ccb9ea7dcb896"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-1.mca",
+      "hash": "c424cdc7ae3be4a7a20c2ca1e7a0b274a8a9d662"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-2.mca",
+      "hash": "188f1d243089e856a3ee3ec71665f04f1b1d282a"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-3.mca",
+      "hash": "d9ffd889d313edfb3f5c6521638f98bdb287f633"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.0.mca",
+      "hash": "b64afac2ba8dc7fa3c606a92167ad258c4ba3c8e"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-1.mca",
+      "hash": "bdf948dc45c9ac48354edb3a2726dd34e0586b98"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-2.mca",
+      "hash": "f7aea10abaf474ff318d2885310a59a3af471bd3"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-3.mca",
+      "hash": "4f7414e316ea5f576f2065aefcace19f85ec967a"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.0.mca",
+      "hash": "246da76acfd595238cd6422825632d5f59921802"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-1.mca",
+      "hash": "80329c118aebac9a5df4017ca622381718c7891c"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-2.mca",
+      "hash": "86732856666fd125ea058a459960a9885acb15a1"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-3.mca",
+      "hash": "224e7f6c41379404ef9167eae209b3149176ab5c"
+    },
+    {
+      "path": "saves/新的世界/icon.png",
+      "hash": "86ac296742d11861d489b9d0f7bd0b44bc7952ee"
+    },
+    {
+      "path": "saves/新的世界/level.dat",
+      "hash": "8160a697d2180c1e0ee819241d432e83a475645f"
+    },
+    {
+      "path": "saves/新的世界/level.dat_old",
+      "hash": "329d95639ad725609d25036b1fe9a09d22d5e6b3"
+    },
+    {
+      "path": "saves/新的世界/playerdata/83ad615d-b5bc-4025-96e7-b8aa1ee9adf3.dat",
+      "hash": "cd7cdaeae8dd86a745d8d948d05ec5ecc7b9ff26"
+    },
+    {
+      "path": "saves/新的世界/playerdata/83ad615d-b5bc-4025-96e7-b8aa1ee9adf3.dat_old",
+      "hash": "fab8703f602debd248b990e09324af5a746c2b09"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.-1.mca",
+      "hash": "3349400b890d17065129328da0b511d09fd7094c"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.0.mca",
+      "hash": "8d331b83de9bb5fba322cc852e70b25010a61d9b"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-1.mca",
+      "hash": "6bc877f1b7213711ac9731b60c47bb223749e4b0"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-2.mca",
+      "hash": "d9085e0b4038415ccfeeeddf32df673802032450"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-3.mca",
+      "hash": "b346e790016f5bbe8a43202e2a5db737ba922475"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.0.mca",
+      "hash": "5f8ffaf9df7033ecb7d943d3a0546d44122c4130"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-2.mca",
+      "hash": "ae3e9452c09070b04ee4627ea9968f246a23e827"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-3.mca",
+      "hash": "38c9067ca9764592aa2d829e750da4656b839341"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-1.mca",
+      "hash": "a4dd4ea364af3d3a6bb388bc3fed35f8c453958c"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-2.mca",
+      "hash": "cd73ec11605c1649b52007ead2f7a105d269cff8"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-3.mca",
+      "hash": "0f877b4895886a05c44abf372d2be0bfc7f3f381"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-1.mca",
+      "hash": "b0bae4f36d59259df67e4fcc61a85aa411eb96ee"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-2.mca",
+      "hash": "b93318a43c44097fafe7fa40a39b61a18cfb2b0d"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-3.mca",
+      "hash": "cb019f22ead3ccb814e260a351cb1e7b72bab8bd"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.0.mca",
+      "hash": "4a0d48a06a266e9e6f0b071c24116f5cbc009f37"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.-1.mca",
+      "hash": "6ea39d4a869ea061bbb048fb7cfd07eb55f2940e"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.-2.mca",
+      "hash": "d034e5ae416b0f1cee120e94e5fa653b4e010f15"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.0.mca",
+      "hash": "52cae7b5fdbfb3774babcca39bcdcccfa94bc580"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-1.mca",
+      "hash": "caf172735a41160dacca2f850f366e8274242400"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-2.mca",
+      "hash": "06bbb5516988c61f15fbe7a1cc9264cacf207ddc"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-3.mca",
+      "hash": "de0f131336586061bdda84c4fceaf20d74bbfd01"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-4.mca",
+      "hash": "79dd91790614c964abda8a730f3aaca165d92564"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.0.mca",
+      "hash": "9b473938b428af071de0bd8c430117301912778f"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-1.mca",
+      "hash": "03110c91f44e5964c0824f46bb28ea6393a5b696"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-2.mca",
+      "hash": "8a6e10bbeec05a131d38b4b8ab451dd9b99a137c"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-3.mca",
+      "hash": "3ce0de061c2c99784ce17daf789b5d429ebd2e2e"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-4.mca",
+      "hash": "2a746b00cb7864b4632f37a8e7d3e5ad240f9e52"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.0.mca",
+      "hash": "c8899a657943697a946e2e183a8de0d48ed67923"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-1.mca",
+      "hash": "38273bcdc7e2c33de8e01d70a3d4b8b3f06b3d8f"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-2.mca",
+      "hash": "448cf8733b36a4a1a2e69dc855a8cee8bc8ab7a9"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-3.mca",
+      "hash": "8b9bf9a9413f4bb6e956689c7a24cc1ea5bd427c"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-4.mca",
+      "hash": "26b2a57adc684bc28557c28fde7b7f862d9ae598"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.0.mca",
+      "hash": "971ac6dda710ce80d95cd326bba9535f94a3942e"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.1.mca",
+      "hash": "ac2675446b07276f2f6e005fdd7a6f2303361690"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-1.mca",
+      "hash": "e919c12822fd1d7150b6bd8a1ceba8b9348bb3d1"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-2.mca",
+      "hash": "27f9d741337c05e53b7af3e8cd8801b067cf2610"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-3.mca",
+      "hash": "3971f415638b90663347c0df8bb6df6abf31040b"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-4.mca",
+      "hash": "a6af2aee4aee464e09f1f673af8da8e41dd6ee6b"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/create-server.toml",
+      "hash": "0093f09abad8042e45636137e2102e1865f664cc"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/createbigcannons-server.toml",
+      "hash": "0909076fb5cd094fa245c38d3a8ae7664cf90f4c"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/curios-server.toml",
+      "hash": "5e25c75d5237e3703aea2ed008a08fa07fccdca4"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/forge-server.toml",
+      "hash": "d4c566a1e7f9208da9f3cc5771b60206630ab3f3"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/jei-server.toml",
+      "hash": "7cf9a231124b7ab40c80fbcf0e07cc020647a5dd"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/railways-server.toml",
+      "hash": "53b744aed0afabe07865b403aeff70b906eb075f"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/ritchiesprojectilelib-server.toml",
+      "hash": "7ca0db066609aab79c80a1c1180aaa9e1aff8a5e"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/voicechat-server.toml",
+      "hash": "32e56fa38ac0787fad4516d264bd6dceec9870c5"
+    },
+    {
+      "path": "saves/新的世界/session.lock",
+      "hash": "2686137311c038a99622242fdb662b88c221c08d"
+    },
+    {
+      "path": "saves/新的世界/stats/83ad615d-b5bc-4025-96e7-b8aa1ee9adf3.json",
+      "hash": "de966e78e5c305ba100cd10b9b08dcd490a7769f"
+    },
+    {
+      "path": "saves/新的世界/xaeromap.txt",
+      "hash": "46277ebbdf1dfdaa3bec02392019b93e95779ec0"
+    },
+    {
       "path": "servers.dat",
       "hash": "9327d916f498d51a1faef5fa64dd15474d849b59"
     },
     {
       "path": "servers.dat_old",
-      "hash": "a3eeefa75fa63e743c1d07b1f7263c88824a3b38"
+      "hash": "9327d916f498d51a1faef5fa64dd15474d849b59"
     },
     {
       "path": "shaderpacks/BSL_v8.2.08.zip",
@@ -1159,7 +1543,7 @@
     },
     {
       "path": "shaderpacks/[光影][汉化]ComplementaryShader_r5.1.1.zip.txt",
-      "hash": "fd781ec18b40c9a02c1b8ef5130f71a822659859"
+      "hash": "698f3c0b80b5c8c8625ce1f6da7d448a1f51138b"
     },
     {
       "path": "shaderpacks/超低配水反光影.zip",
