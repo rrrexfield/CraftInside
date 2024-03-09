@@ -1,8 +1,8 @@
 {
-  "name": "CraftInside Modpack(Oculus-Forge)v0.4a",
+  "name": "CraftInside Modpack(Oculus-Forge)v0.4b",
   "author": "Numerous",
-  "version": "0.4a",
-  "description": "\u003c!DOCTYPE html\u003e\u003chtml\u003e\u003chead\u003e\n      \u003ctitle\u003eReadme\u003c/title\u003e\n      \u003cmeta charset\u003d\"utf-8\"\u003e\n      \u003cmeta name\u003d\"viewport\" content\u003d\"width\u003ddevice-width, initial-scale\u003d1.0\"\u003e\n      \n      \u003clink rel\u003d\"stylesheet\" href\u003d\"file:///c:\\Users\\union\\.vscode\\extensions\\shd101wyy.markdown-preview-enhanced-0.8.11\\crossnote\\dependencies\\katex\\katex.min.css\"\u003e\n      \n      \n      \n      \n      \n      \u003cstyle\u003e\n      code[class*\u003dlanguage-],pre[class*\u003dlanguage-]{color:#333;background:0 0;font-family:Consolas,\"Liberation Mono\",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*\u003dlanguage-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)\u003ecode[class*\u003dlanguage-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:\u0027Helvetica Neue\u0027,Helvetica,\u0027Segoe UI\u0027,Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body\u003e:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body\u003ep{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body\u003eol,html body\u003eul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li\u003ep{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote\u003e:first-child{margin-top:0}html body blockquote\u003e:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,\u0027Courier New\u0027,monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:\u0027\\00a0\u0027}html body pre\u003ecode{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers\u003ecode{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows\u003espan{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows\u003espan:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for\u003dpreview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for\u003dpreview]) .code-chunk .status{display:none}.markdown-preview:not([data-for\u003dpreview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for\u003dhtml-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for\u003dhtml-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for\u003dhtml-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for\u003dhtml-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for\u003dhtml-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for\u003dhtml-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for\u003dhtml-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}\n/* Please visit the URL below for more information: */\n/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */\n\n      \u003c/style\u003e\n      \u003c!-- The content below will be included at the end of the \u003chead\u003e element. --\u003e\u003cscript type\u003d\"text/javascript\"\u003e\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    // your code here\n  });\n\u003c/script\u003e\u003c/head\u003e\u003cbody for\u003d\"html-export\"\u003e\n    \n    \n      \u003cdiv class\u003d\"crossnote markdown-preview  \"\u003e\n      \n\u003cp\u003e\u003cscript type\u003d\"text/javascript\" src\u003d\"https://haogeshuohuanihaohaoting.github.io/static/mdCreateMenu.js\"\u003e\u003c/script\u003e\u003c/p\u003e\n\u003ch1 id\u003d\"craftinside服务器整合包\"\u003e\u003cstrong\u003eCraftInside服务器整合包\u003c/strong\u003e \u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e欢迎来到CraftInside的Minecraft世界！这里不仅是一个游戏服务器，更是一个创意的乐园。在这里，你将开启无限可能性的大门，解锁创造力的力量，加入我们的服务器，与志同道合的伙伴一起开启你的冒险之旅！\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e探索 \u003cem\u003e机械动力、农夫乐事、装饰、家具\u003c/em\u003e 等模组的秘密，突破Minecraft原版限制。无论是打造更复杂、更高效的机器，还是体验烹饪的乐趣，抑或是建造更漂亮、更真实的建筑，我们的服务器始终为你敞开，我们的使用文档将为你提供详尽的指导，助你成为一名真正的Minecraft大师！\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"pic1\"\u003e\u003c/a\u003e\u003c/p\u003e\u003cdiv align\u003d\"center\"\u003e\u003ca href\u003d\"pic1\"\u003e\u003cimg src\u003d\"https://pic.imgdb.cn/item/65e412c59f345e8d032d9f99.jpg\" alt\u003d\"\"\u003e\u003c/a\u003e\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003c/em\u003e\u003c/p\u003e\u003cdiv align\u003d\"right\"\u003e\u003cem\u003e注：本服务器正处于公测阶段，故暂未开放公共进服通道\u003c/em\u003e\u003cp\u003e\u003c/p\u003e\n\u003cdiv align\u003d\"left\"\u003e\n\u003ch2 id\u003d\"使用说明\"\u003e使用说明 \u003c/h2\u003e\n\u003ch3 id\u003d\"安装教程\"\u003e安装教程 \u003c/h3\u003e\n\u003cp\u003e\u003cstrong\u003e从本服务器的QQ群、\u003ca href\u003d\"https://gitee.com/numerousx/craft-inside/tree/master\"\u003eGitee仓库\u003c/a\u003e、Github仓库下载最新版本整合包，在你的启动器中选择“安装整合包”或“导入整合包”，选择你下载好的本整合包的.zip压缩包文件，点击确定即可完成安装。\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e推荐启动器：\u003c/strong\u003e\u003ca href\u003d\"https://hmcl.huangyuhui.net/download/\"\u003eHMCL\u003c/a\u003e , \u003ca href\u003d\"https://afdian.net/p/0164034c016c11ebafcb52540025c377\"\u003ePCL2\u003c/a\u003e （点击即可下载）\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e相关教程：\u003ca href\u003d\"https://www.bilibili.com/read/cv24334696/\"\u003eBiliBili - 我的世界本地整合包安装教程HMCL和PCL2\u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch3 id\u003d\"注意\"\u003e注意 \u003c/h3\u003e\n\u003col\u003e\n\u003cli\u003e本服\u003cstrong\u003e仅支持Java版进入，不支持基岩版！\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e服务器支持\u003cstrong\u003e正版登录、LittleSkin登录!\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e请事先确认您\u003cstrong\u003e已安装了Java17或更高版本的Java！\u003c/strong\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e服务器常用命令\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003ccode\u003e/home\u003c/code\u003e 回到玩家出生点\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/back\u003c/code\u003e 回到上一次传送点/死亡地点\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpa\u003c/code\u003e或\u003ccode\u003e/tpask\u003c/code\u003e 请求传送到某人身旁\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpacancel\u003c/code\u003e 取消传送请求\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpaccept\u003c/code\u003e 接受传送请求\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/tpdeny\u003c/code\u003e 拒绝传送请求\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e/co i\u003c/code\u003e 查看方块行为日志\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e客户端常用按键\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003ccode\u003eC\u003c/code\u003e 放大（望远镜）- \u003ccode\u003eC + 鼠标滚轮\u003c/code\u003e 变焦（调整放大倍率）\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eV\u003c/code\u003e 打开语音聊天界面 - \u003ccode\u003eG\u003c/code\u003e 打开语音聊天群组设置\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eTap\u003c/code\u003e 显示在线玩家信息及小地图生物头像\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eJ\u003c/code\u003e 打开投影设置界面\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eO\u003c/code\u003e 打开视频设置界面\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eR\u003c/code\u003e 重新加载光影\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cem\u003e其他按键设置请在Mod列表中或控制选项中自行查看\u003c/em\u003e\u003c/p\u003e\n\u003ch2 id\u003d\"获得支持\"\u003e获得支持 \u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e游戏相关问题：\u003c/strong\u003e 您可以在服务器QQ群提问，也可以向support@mail.craftinside.uk发送反馈邮件。\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e客户端整合包BUG：\u003c/strong\u003e 您可以在本项目的\u003ca href\u003d\"https://gitee.com/numerousx/craft-inside/tree/master\"\u003eGitee页面\u003c/a\u003e或Github页面提交Issue，也可以向support@mail.craftinside.uk发送反馈邮件。\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e我们一直在这里支持你！无论是游戏中遇到的问题还是对于服务器的疑问，我们的支持团队将尽我们所能为你提供帮助，让你在Minecraft世界中畅享乐趣，尽情展现自己的创造力！\u003c/p\u003e\n\u003ch2 id\u003d\"帮助我们变得更好\"\u003e帮助我们变得更好 \u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e如果你发现了有趣的模组，并想在CraftInside服务器上游玩，可以在服务器QQ群中提出你的idea，我们一起让CraftInside的世界变得更加多彩。\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e你的支持是我们前进的动力！本服务器完全由腐竹用爱发电驱动，通过捐款，你将直接支持服务器的运营和发展，帮助我们不断提升游戏体验，为玩家们带来更多惊喜和乐趣！每一份捐助都将被用于服务器的改进和维护，让我们共同为这片美好的Minecraft世界添砖加瓦！\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003ca href\u003d\"pic2\"\u003e\u003c/a\u003e\u003c/p\u003e\u003cdiv align\u003d\"center\"\u003e\u003ca href\u003d\"pic2\"\u003e\u003cimg src\u003d\"https://pic.imgdb.cn/item/65e412c49f345e8d032d9ec2.jpg\" alt\u003d\"\"\u003e\u003c/a\u003e\u003cp\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cdiv align\u003d\"left\"\u003e\n\u003ch2 id\u003d\"附录模组列表\"\u003e附录：模组列表 \u003c/h2\u003e\n\u003ch3 id\u003d\"玩法类\"\u003e玩法类 \u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e[Creae] 机械动力\u003c/li\u003e\n\u003cli\u003e[Create: Steam \u0027n\u0027 Rails] 机械动力：汽鸣铁道\u003c/li\u003e\n\u003cli\u003e[Create: Big Cannons] 机械动力：火炮\u003c/li\u003e\n\u003cli\u003e[Farmer\u0027s Delight] 农夫乐事\u003c/li\u003e\n\u003cli\u003e[Corn Delight] 玉米乐事\u003c/li\u003e\n\u003cli\u003e[Explorer\u0027s Compass] 探险者罗盘\u003c/li\u003e\n\u003cli\u003e[Nature Compass] 自然罗盘\u003c/li\u003e\n\u003cli\u003e[AstikorCarts Redux] 人力拉车\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id\u003d\"装饰类\"\u003e装饰类 \u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e[Supplementaries] 锦致装饰\u003c/li\u003e\n\u003cli\u003e[MrCrayfish\u0027s Furniture Mod] MrCrayfish的家具\u003c/li\u003e\n\u003cli\u003e[Decorative Lattices] 装饰框格\u003c/li\u003e\n\u003cli\u003e[PlayTics Deco] 工地装饰\u003c/li\u003e\n\u003cli\u003e[Immersive Paintings] 沉浸画框\u003c/li\u003e\n\u003cli\u003e[Diagonal Walls] 对角线围墙\u003c/li\u003e\n\u003cli\u003e[Diagonal Fences] 对角线栅栏\u003c/li\u003e\n\u003cli\u003e[Diagonal Windows] 对角线玻璃板\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id\u003d\"辅助类\"\u003e辅助类 \u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e[AppleSkin] 苹果皮\u003c/li\u003e\n\u003cli\u003e[Forgematica] 全息蓝图（投影）\u003c/li\u003e\n\u003cli\u003e[Simple Voice Chat] 简单语音聊天\u003c/li\u003e\n\u003cli\u003e[Xaero\u0027s Mini Map] Xaero的小地图\u003c/li\u003e\n\u003cli\u003e[Xaero\u0027s World Map] Xaero的世界地图\u003c/li\u003e\n\u003cli\u003e[WI Zoom] WI变焦\u003c/li\u003e\n\u003cli\u003e[Just Enough Items] JEI物品管理\u003c/li\u003e\n\u003cli\u003e[Inventory HUD+] 物品栏HUD+\u003c/li\u003e\n\u003cli\u003e[Inventory Profiles Next] 一件背包整理Next\u003c/li\u003e\n\u003cli\u003e[Bocc HUD] 孤独HUD\u003c/li\u003e\n\u003cli\u003e[Auto Fish] 自动钓鱼\u003c/li\u003e\n\u003cli\u003e[Dynamic Crosshair] 动态准星\u003c/li\u003e\n\u003cli\u003e[Curtain] 地毯\u003c/li\u003e\n\u003cli\u003e[Chat Heads] 聊天头像\u003c/li\u003e\n\u003cli\u003e[Better Advancements] 更好的进度\u003c/l",
+  "version": "0.4b",
+  "description": "",
   "fileApi": "https://gitee.com/numerousx/craft-inside/raw/master",
   "files": [
     {
@@ -24,6 +24,10 @@
     {
       "path": "config/astikorcarts-common.toml",
       "hash": "8a3dadb5226f24f19ea7f7b49c329c4eb097404a"
+    },
+    {
+      "path": "config/bcc-common.toml",
+      "hash": "17f625746cb20e62f97ee088f1cdeb657f1e3a2d"
     },
     {
       "path": "config/beautifiedchatclient-common.toml",
@@ -203,7 +207,7 @@
     },
     {
       "path": "config/embeddium-fingerprint.json",
-      "hash": "a889d8b76ba91cb2bfcb3cb64e0fc0a6440f3c6d"
+      "hash": "68bdcf03207f114a7d7368bbab09a4b27185a1b7"
     },
     {
       "path": "config/embeddium-mixins.properties",
@@ -535,7 +539,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "49720e1cf68e6cf90bb810afa8c30b385f4633fe"
+      "hash": "26daf51f212ad98d14d9b1092a762850c378d5a8"
     },
     {
       "path": "config/railways-client.toml",
@@ -559,11 +563,11 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "0a991974323d62c59fa1851ef6474f8cba138584"
+      "hash": "577ea197b5b61118025dbbfb745c8b676dc682c2"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "592e29bf564b014a3b926f4a10fd53170722cc39"
+      "hash": "c2d13157b662442d0c023412ffb7a0f8d8b9a3eb"
     },
     {
       "path": "config/sound_physics_remastered/soundphysics.properties",
@@ -576,6 +580,10 @@
     {
       "path": "config/supplementaries-common.toml",
       "hash": "15ee5ab724f1c82a859c5ebe6ddd14a47719c584"
+    },
+    {
+      "path": "config/tanukidecor-common.toml",
+      "hash": "3fdfceded77452ff2016043df6d14cb3405bfd1d"
     },
     {
       "path": "config/tr7zwDonorSettings.json",
@@ -595,11 +603,11 @@
     },
     {
       "path": "config/voicechat/username-cache.json",
-      "hash": "ba7502751f7e51793ebd1a8f295ce3bd61e1d421"
+      "hash": "75836e9cf095bdd55cd3d2f41112d5cbbfdd2e0a"
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "30a3bb09df44680c2e4f2ec6eb51aa2927696079"
+      "hash": "c3048109152f966c68fef3019fb4ce3702278922"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -619,7 +627,7 @@
     },
     {
       "path": "config/worldedit/worldedit.properties",
-      "hash": "60f795907adc604860bb6558bff24602ab4afd46"
+      "hash": "27ee86f7d1e0aa18b3f713207eb8ebea1026d3f5"
     },
     {
       "path": "config/wwta-client.toml",
@@ -635,7 +643,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "85372f4ea3a466aa83ac64269b88048314cafed3"
+      "hash": "52a14c07a8df5972fc646ef06d73c98076a20686"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -656,10 +664,6 @@
     {
       "path": "CustomSkinLoader/CustomSkinLoader.json",
       "hash": "a37c0b4551d7ed245dcd7e3718b1cb7a4b1892e5"
-    },
-    {
-      "path": "hmclversion.cfg",
-      "hash": "c89cfda7f39db44bc4f78c75fb55a315e8e4a1fe"
     },
     {
       "path": "immersive_paintings_cache/immersivepaintingspaintingsairshipsalexruizart32pxpng_thumbnail.png",
@@ -808,6 +812,10 @@
     {
       "path": "mods/BetterAdvancements-1.20.1-0.3.2.162.jar",
       "hash": "2bfee5f676aae53d1cf7721d2db2329940b97ec0"
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+      "hash": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae"
     },
     {
       "path": "mods/betterfpsdist-1.20.1-4.1.jar",
@@ -1107,7 +1115,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "8195a9915b1528a19d4c64d5ea3e47a769a49c92"
+      "hash": "80d1e0a30a8e32e2f2839906842f5ffa3e720dd1"
     },
     {
       "path": "resourcepacks/Better-Leaves-71.20.zip",
@@ -1143,7 +1151,7 @@
     },
     {
       "path": "servers.dat_old",
-      "hash": "a3eeefa75fa63e743c1d07b1f7263c88824a3b38"
+      "hash": "9327d916f498d51a1faef5fa64dd15474d849b59"
     },
     {
       "path": "shaderpacks/BSL_v8.2.08.zip",
@@ -1159,7 +1167,7 @@
     },
     {
       "path": "shaderpacks/[光影][汉化]ComplementaryShader_r5.1.1.zip.txt",
-      "hash": "fd781ec18b40c9a02c1b8ef5130f71a822659859"
+      "hash": "11872d9025fd0708d98c7ee2f591b6e15db96ab3"
     },
     {
       "path": "shaderpacks/超低配水反光影.zip",
