@@ -1,7 +1,7 @@
 {
-  "name": "CraftInside Modpack(Oculus-Forge)v0.4b",
+  "name": "CraftInside Modpack(Oculus-Forge)v0.4c",
   "author": "Numerous",
-  "version": "0.4b",
+  "version": "0.4c",
   "description": "",
   "fileApi": "https://gitee.com/numerousx/craft-inside/raw/master",
   "files": [
@@ -151,7 +151,7 @@
     },
     {
       "path": "config/configured-client.toml",
-      "hash": "2a9798ebb7ca1426bd8b645e219dc7f9eaf909e4"
+      "hash": "c4b064426a9c637df9d373cd60839250caf1b2a2"
     },
     {
       "path": "config/corn_delight-common.toml",
@@ -207,7 +207,7 @@
     },
     {
       "path": "config/embeddium-fingerprint.json",
-      "hash": "68bdcf03207f114a7d7368bbab09a4b27185a1b7"
+      "hash": "d2f81d28102e91a7daebaba9abdc80e2c2d4ae76"
     },
     {
       "path": "config/embeddium-mixins.properties",
@@ -539,7 +539,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "26daf51f212ad98d14d9b1092a762850c378d5a8"
+      "hash": "6f1e0d8f53b55c660c08a89c5238536e9705f6ec"
     },
     {
       "path": "config/railways-client.toml",
@@ -563,11 +563,11 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "577ea197b5b61118025dbbfb745c8b676dc682c2"
+      "hash": "be15b0db29a92f52fb828fe45d192e70eac6d230"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "c2d13157b662442d0c023412ffb7a0f8d8b9a3eb"
+      "hash": "8e932d59e7a79ac4fb86b3cbadc503e6bcd1c990"
     },
     {
       "path": "config/sound_physics_remastered/soundphysics.properties",
@@ -643,7 +643,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "52a14c07a8df5972fc646ef06d73c98076a20686"
+      "hash": "a88ac9c743513bdda5bccb19685dfdfeb7393d4b"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -664,102 +664,6 @@
     {
       "path": "CustomSkinLoader/CustomSkinLoader.json",
       "hash": "a37c0b4551d7ed245dcd7e3718b1cb7a4b1892e5"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsairshipsalexruizart32pxpng_thumbnail.png",
-      "hash": "7c343ef556399613110779e31df4795337a98eb2"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsautumnnostalgiatree32pxpng.png",
-      "hash": "9447ebe4aa4a5e0d3cf8048602de9353ec30b47d"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsbeyondhillanddalealenaaenami32pxpng.png",
-      "hash": "fc29273907708a28f25009c15bfb434b701654f8"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingscavernsennin1332pxpng.png",
-      "hash": "069654b3d53214758dd4087d079a2245467c6a25"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsconceptbinubalan32pxpng_thumbnail.png",
-      "hash": "6248f70dc3c7bb18a094ab91767564c934c355a0"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingscthulhuandreewallin32pxpng.png",
-      "hash": "ceacfe583af1b4c20b94c39da748aa6077bb2f52"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsdarkphoenixstarkiteckt32pxpng_thumbnail.png",
-      "hash": "5ddf49cd9642e5c06669b5631197e4293eb72e77"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsdeerlandscapebyzwadher32pxpng.png",
-      "hash": "998658ee3135810f5f0887ef64d4b6cfb2797369"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsfrostvalleyjorgejacinto32pxpng.png",
-      "hash": "45d66a3d8074b90a8eee631d3e6ccb02f1f61d30"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsgothiclandscapesorokaalexej32pxpng.png",
-      "hash": "0a4d4461c05f2f8eab7c6b3e1d568a82e2470052"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingshazycastledavidfrasheski32pxpng_thumbnail.png",
-      "hash": "ee3c142fe68644d71d68ed0007a82a79fec7bc33"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsikrannebulastarkiteckt32pxpng.png",
-      "hash": "23e74a061c623a9fdbeb01f085810d46d8a4aa85"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingslakesareltheron32pxpng.png",
-      "hash": "04eff782bdc376ba95454d2207d3d5f3bce372fd"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingslifeintheskyvladimirkostuchek32pxpng.png",
-      "hash": "bab6e987604c28542801140b5fa3eb040e5604fd"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsnevermorejosefbarton32pxpng.png",
-      "hash": "b7f241e39b786372e37c0dce8f4011fd65376d51"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingssmallmemorymikaelgustafsson32pxpng.png",
-      "hash": "2c81d5619cc60c94dbfcb8c32be786b6ec85ede7"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingstheancientonesjessicawoulfe32pxpng.png",
-      "hash": "134ccfe93f4ce4ed79174188964a0343e5e8e115"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingstheesteemedpalacechrisostrowski32pxpng.png",
-      "hash": "240aa923394e5ee574d15a3f77a9ba42f5707291"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsthelostlegendxutianhua32pxpng.png",
-      "hash": "6ee233315af925c8a2acbd30438f2207cf9b1ceb"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsthetorchstarkiteckt32pxpng.png",
-      "hash": "0484cef7e0da52f108199b8911f9cd4c240fbf58"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingstranquilsundaywalkscilex32pxpng_thumbnail.png",
-      "hash": "b9bad90647bbd17854722acd4b1bd58aaa17622e"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsunderwatertox500032pxpng_thumbnail.png",
-      "hash": "68d8f550843dacece782ea04d9d7686a83bba665"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingsvenedigverena32pxpng.png",
-      "hash": "88f3ab8958b44dfadcac259ad7161b764c2b4bdb"
-    },
-    {
-      "path": "immersive_paintings_cache/immersivepaintingspaintingswindmilltowndarekzabrocki32pxpng_thumbnail.png",
-      "hash": "331e18d6d88b1986a91545e985957134f90618e4"
     },
     {
       "path": "modernfix/structureCacheV1/farmersdelight_village_houses_desert_compost_pile_c806a3403a.nbt",
@@ -848,6 +752,10 @@
     {
       "path": "mods/configured-fabric-1.20.1-2.2.2.jar",
       "hash": "df4ac94c5986a5bdb0f5f1f29d9c408bd48cc445"
+    },
+    {
+      "path": "mods/configured-forge-1.20.1-2.2.2.jar",
+      "hash": "a73fed56c6df33b798c0b2347eddfcb0d7f8f7df"
     },
     {
       "path": "mods/construction_deco_Forge_1.20.1.jar",
@@ -1167,7 +1075,7 @@
     },
     {
       "path": "shaderpacks/[光影][汉化]ComplementaryShader_r5.1.1.zip.txt",
-      "hash": "11872d9025fd0708d98c7ee2f591b6e15db96ab3"
+      "hash": "79c041b59ed033ef457e00b6e83650c0be1e2d34"
     },
     {
       "path": "shaderpacks/超低配水反光影.zip",
