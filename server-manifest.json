@@ -750,10 +750,6 @@
       "hash": "fc8b7f06edade29450fe3b1482103dd3bb36117a"
     },
     {
-      "path": "mods/configured-fabric-1.20.1-2.2.2.jar",
-      "hash": "df4ac94c5986a5bdb0f5f1f29d9c408bd48cc445"
-    },
-    {
       "path": "mods/configured-forge-1.20.1-2.2.2.jar",
       "hash": "a73fed56c6df33b798c0b2347eddfcb0d7f8f7df"
     },
