@@ -1,3 +1,6 @@
+# ⚠️此项目已被归档并停止维护
+# ⚠️This repository has been archived and is no longer maintained.
+
 中文 | [English](https://github.com/rrrexfield/CraftInside/blob/master/README_en.md)
 
 # **CraftInside服务器整合包**
